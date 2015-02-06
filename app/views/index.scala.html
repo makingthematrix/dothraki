@@ -1,0 +1,27 @@
+@(quotes: List[Quote])
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quotes</title>
+<script src='@routes.WebJarAssets.at(WebJarAssets.locate("jquery.min.js"))'></script>
+<script src='@routes.WebJarAssets.at(WebJarAssets.locate("jquery-ui.min.js"))'></script>
+<script src='@routes.Assets.at("sortable.js")'></script>
+<link rel='stylesheet' href='@routes.WebJarAssets.at(WebJarAssets.locate("css/bootstrap.min.css"))'>
+<link rel='stylesheet' href='@routes.Assets.at("stylesheets/main.css")'>
+</head>
+<body>
+
+<div class="container">
+
+  <h1>Quotes</h1>
+
+  <ul>
+    @for(quote <- quotes) {
+      <li>@quote.english | @quote.dothraki</li>
+    }
+  </ul>
+
+</div>
+
+</body>
+</html>

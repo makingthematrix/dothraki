@@ -1,0 +1,3246 @@
+=== A ===
+
+*'''acchakat''' [att͡ʃakat] <span id="acchakat"></span>
+:''vtr.'' to silence
+:{{Vsup|acchak}}
+:{{Quote|Me vastoe hatif anni; ahhazaan yer nemo vacchaki.|She will speak before me; until then you will keep yourself quiet.}}
+*'''achra''' [at͡ʃɾa] <span id="achra"></span>
+:''adj.'' smelly
+*'''achrakh''' [at͡ʃɾax] <span id="achrakh"></span>
+:''ni.'' stink
+*'''achralat''' [at͡ʃɾalat] <span id="achralat"></span>
+:''v.'' to be smelly, to give off a smell
+:{{Vsup|achra}}
+*'''adakhat''' [adaxat] <span id="adakhat"></span>
+:''v.'' to eat
+:{{Vsup|adakh}}
+:{{Quote|Khaleesi zala meme adakha esinakh ajjalan.|The khaleesi wants to eat something different tonight.}}
+*'''adakhilat''' [adaxilat] <span id="adakhilat"></span>
+:''v.'' to feed (specifically to feed on, or to feast on)
+:{{Vsup|adakhi}}
+:{{Quote|Inte vadakhie tihoa.|The beetles will feed on your eyes.}}
+*'''addakhat''' [addaxat] <span id="addakhat"></span>
+:''vtr.'' to feed
+*'''addo ajjalani''' [addo add͡ʒalani] <span id="addo ajjalani"></span>
+:''np.'' midnight
+*'''addothralat''' [addoθɾalat] <span id="addothralat"></span>
+:''vtr.'' to convey, to transport someone
+:{{Vsup|addothra}}
+*'''addrekat''' [addɾekat] <span id="addrekat"></span>
+:''vtr.'' to cause to spill, to spill
+*'''addrivat''' [addɾivat] <span id="addrivat"></span>
+:''vtr.'' to kill (chiefly when done intentionally by a person)
+:{{Vsup|addriv}}
+*'''ador''' [ador] <span id="ador"></span>
+:''ni.'' chair
+*'''adra''' [adɾa] <span id="adra"></span>
+:''na.'' turtle
+*'''aena''' [aena] <span id="aena"></span>
+:''n.'' morning
+*'''afazh''' [afaʒ] <span id="afazh"></span>
+:''adj.'' hot
+*'''afazhi''' [afaʒi] <span id="afazhi"></span>
+:''adj.'' warm
+*'''affa''' [affa] <span id="affa"></span>
+:''intj.'' "shh", sound used to calm a horse or a child
+*'''affazolat''' [affazolat] <span id="affazolat"></span>
+:''vtr.'' to replace
+:{{Vsup|affazo}}
+*'''affazhat''' [affaʒat] <span id="affazhat"></span>
+:''vrt.'' to warm, to give warmth to, to make hot
+*'''affesat''' [affesat] <span id="affesat"></span>
+:''vtr.'' to make someone itch
+:{{Vsup|affes}}
+*'''affin''' [affin] <span id="affin"></span>
+:''adv.'' when
+:{{Quote|Anha vazhak maan firikhnharen hoshora ma mahrazhi aqovi affin mori atihi mae.|I will give to him a golden crown and men will tremble when they will see it.}}
+*'''affisat''' [affisat] <span id="affisat"></span>
+:''vtr.'' to clean, to wash
+:{{Vsup|affis}}
+:{{Quote|Azhas maan affisat zis yeri, shekh ma shieraki anni.|Let her clean your wound my sun and stars.}}
+*'''afis''' [afis] <span id="afis"></span>
+:''n.'' fly
+*'''aggendat''' [aggendat] <span id="aggendat"></span>
+:''vtr.'' to rip something, to tear something
+:{{Vsup|aggend}}
+*'''ahesh''' [aheʃ] <span id="ahesh"></span>
+:'' ni.'' snow
+*'''aheshke''' [aheʃke] <span id="aheshke"></span>
+:'' ni.'' winter
+:{{Nsup|aheshk}}
+*'''ahhaqat''' [ahhaqɑt] <span id="ahhaqat"></span>
+:''vtr.'' to frustrate
+:{{Vsup|ahhaqe}}
+*'''ahhasat''' [ahhasat] <span id="ahhasat"></span>
+:''vtr.'' to sharpen
+:{{Vsup|ahhas}}
+*'''ahhaz''' [ahhaz] <span id="ahhaz"></span>
+:''adv.'' then (of close or immediate future, compare to '''[[Vocabulary#arrek|arrek]]''')
+:{{Quote|Me vastoe hatif anni; ahhazaan yer nemo vacchaki.|She will speak before me; until then you will keep yourself quiet.}}
+*'''ai''' [ai] <span id="ai"></span>
+:''intj.'' yes, obedient response
+*'''ajjalan''' [add͡ʒalan] <span id="ajjalan"></span>
+:''adv.'' tonight
+*'''ajjin''' [add͡ʒin] <span id="ajjin"></span>
+:''adv.'' now
+:{{Quote|Jin chiorisi zafra ajjin, majin kisha ataki morea ven me vallayafa kisha.|These women are slaves now to do with as we please.}}
+*'''akat''' [akat] <span id="akat"></span>
+:''num.'' two
+*'''akataki''' [akataki] <span id="akataki"></span>
+:''adj.'' second
+*'''akka''' [akka] <span id="akka"></span>
+:''adv.'' also, as well, even, re-
+:{{Quote|Rizhaan anni, vezh fin asaja rhaesheseres, maan anha valloshak azh akka.|To my son, the stallion who will mount the world, I will also pledge a gift.}}
+:{{Quote|Anha soqe akka jin sacchey essheyi.|I rewove this part of the top.}}
+:{{Quote|Kash athezar kishi vos akka.|Not even when we leave.}}
+*'''akkate''' [akkate] <span id="akkate"></span>
+:''adv.'' alike, the same way
+:{{Quote|Zhavvorsa vadakhera ma hrazef ma vaf akkate.|The dragon feeds on horse and lamb alike.}}
+*'''akkelenak''' [akkelenak] <span id="akkelenak"></span>
+:''na.'' leader
+*'''akkelenat''' [akkelenat] <span id="akkelenat"></span>
+:''v.'' to decide, to judge
+*'''Akko!''' [akko] <span id="akko"></span>
+:''intj.'' Stand up! (shortening of '''[[Vocabulary#akkovarat|akkovaras]]'''; used to command animals)
+*'''akkovarat''' [akkovarat] <span id="akkovarat"></span>
+:''v.'' to stand (something) up
+:{{Vsup|akkovar}}
+*'''ale''' [ale] <span id="ale"></span>
+:''adj.'' more
+:{{Quote|Dalen rhaggat eveth ma ale vekhi she Vaes Seris.|There are a thousand ships and more in the free cities.}}
+*'''alegra''' [alegɾa] <span id="alegra"></span>
+:''ni.'' duck
+:{{Nsup|alegre}}
+*'''alikh''' [alix] <span id="alikh"></span>
+:''ni.'' more
+:{{Quote|Kisha vastoki vos alikh hrazefi ido m'adori shiqethi.|Let's speak no more about wooden horses or iron chairs.}}
+*'''allayafat''' [allajafat] <span id="allayafat"></span>
+:''vtr.'' to please
+:{{Vsup|allayaf}}
+:{{Quote|Mori allayafi mae, jin alegra.|She likes ducks.}}
+*'''alle''' [alle] <span id="alle"></span>
+:''adv.'' farther, further
+*'''alloshat''' [alloʃat] <span id="alloshat"></span>
+:''vtr.'' to pledge
+:{{Vsup|allosh}}
+:{{Quote|Ma rizhaan anni, vezh fin asaja rhaesheseres,  maan anha valloshak azh akka.|And to my son, the stallion who will mount the world, I will also pledge a gift.}}
+*'''ammasat''' [ammasat] <span id="ammasat"></span>
+:''v.'' to decorate
+*'''ammattelat''' [ammattelat] <span id="ammattelat"></span>
+:''v.'' to hobble a person
+:{{Vsup|ammatte}}
+*'''ammemat''' [ammemat] <span id="ammemat"></span>
+:''v.'' to play a musical instrument
+*'''ammenat''' [ammenat] <span id="ammenat"></span>
+:''vtr.'' to empty something
+:{{Vsup|ammen}}
+*'''ammithrat''' [ammiθɾat] <span id="ammithrat"></span>
+:''vtr.'' to rest
+:{{Vsup|ammithre}}
+*'''anat''' [anat] <span id="anat"></span>
+:''v.'' to jog
+:''vtr.&rarr;gen.'' to jog beside
+:{{Vsup|an}}
+*'''anha''' [anha] <span id="anha"></span>
+:''pn.'' I
+*'''anna''' [anna] <span id="anna"></span>
+:''pn.'' me
+*'''annakhat''' [annaxat] <span id="annakhat"></span>
+:''vtr.'' to stop someone or something
+:{{Vsup|annakh}}
+*'''annakholat''' [annaxolat] <span id="annakholat"></span>
+:''vtr.'' to put an end to, to finish
+:{{Vsup|annakho}}
+*'''annevalat''' [annevalat] <span id="annevalat"></span>
+:''vtr.'' to sit something, to leave something alone
+:{{Vsup|anneva}}
+:{{Quote|Me asta meme azirissee khalakkaes khaleesisoon ma vannevae mae shafkea.|He says that he will cut the prince out of the khaleesi and leave him for you.}}
+*'''annese''' [annese] <span id="annese"></span>
+:''ni.'' announcement
+*'''anni''' [anni] <span id="anni"></span>
+:''pn.'' of mine
+*'''annithat''' [anniθat] <span id="annithat"></span>
+:''v.'' to cause pain, to hurt
+:{{Vsup|annith}}
+*'''annithilat''' [anniθilat] <span id="annithilat"></span>
+:''v.'' to encourage, to invigorate, to entice
+:{{Vsup|annithi}}
+*'''ao''' [ao] <span id="ao"></span>
+:''adj.'' deep
+:''adv.'' dark (of color)
+*'''aqqisat''' [aqqesat] <span id="aqqisat"></span>
+:''vtr.'' to keep near
+*'''arakh''' [aɾax] <span id="arakh"></span>
+:''ni.'' curved sword
+*'''aranat''' [aɾanat] <span id="aranat"></span>
+:''vtr.'' to drop (something)
+*'''arannat''' [aɾannat] <span id="arannat"></span>
+:''v.'' to be neglected
+*'''arranat''' [aranat] <span id="arranat"></span>
+:''vtr.'' to shame, to cause to be merciful
+*'''arrane''' [arane] <span id="arrane"></span>
+:''n.'' shaming, a public dressing down
+*'''aranikh''' [aɾanix] <span id="aranikh"></span>
+:''ni.'' subject, topic, theme
+*'''aresak''' [aresak] <span id="aresak"></span>
+:''na.'' coward
+*'''aresat''' [aresat] <span id="aresat"></span>
+:''vin.'' to hide
+:{{Vsup|ares}}
+*'''arraggat''' [araggat] <span id="arraggat"></span>
+:''v.'' to choke (someone)
+:{{Vsup|arragge}}
+*'''arrek''' [arek] <span id="arrek"></span>
+:''adv.'' then  (of event not in the immediate future, compare to '''[[Vocabulary#ahhaz|ahhaz]]''')
+:''conj.'' when
+:{{Quote|Affin shekh yola she jimma ma drivoe she titha...Arrek yer ajadi save, shekh ma shieraki anni.|When the star rises in the west and sets in the east...Then you will come back to me, my sun and stars.}}
+:'''arrekaan''' ''conj.'' until
+:{{Quote|Eyel varthasoe she ilekaan rikhoya arrekaan vekha vosi yeroon vosma tolorro!|The rain will fall on your rotting skin until nothing is left of you but bones.}}
+:'''arrekoon''' ''conj.'' from since
+*'''arrissat''' [arissat] <span id="arrissat"></span>
+:''v.'' to fix
+:{{Vsup|arrisse}}
+*'''arrokhat''' [aroxat] <span id="arrokhat"></span>
+:''vtr.'' to frighten
+:{{Vsup|arrokh}}
+*'''arthasat''' [aɾθasat] <span id="arthasat"></span>
+:''v.'' to fall
+:{{Vsup|arthas}}
+:{{Quote|Me arthas hrazefoon mae.|He fell from his horse.}}
+*'''arthasolat''' [aɾθasolat] <span id="arthasolat"></span>
+:''v.'' to fall
+:{{Vsup|arthaso}}
+:{{Quote|Eyel varthasoe she ilekaan rikhoya.|The rain will fall on your rotting skin.}}
+*'''asavva''' [asavva] <span id="asavva"></span>
+:''na.'' sky
+*'''ase''' [ase] <span id="ase"></span>
+:''ni.'' word
+:''ni.'' command
+:{{Nsup|as}}
+*'''asfavirzeth''' [asfaviɾzeθ] <span id="asfavirzeth"></span>
+:''ni.'' cranberry
+*'''ashefa''' [aʃefa] <span id="ashefa"></span>
+:''na.'' river
+*'''asqoyi''' [asqɔji] <span id="asqoyi"></span>
+:''ni.'' oath, vow
+:{{Nsup|asqoy}}
+*'''assamvat''' [assamvat] <span id="assamvat"></span>
+:''vtr.'' to break (something)
+:{{Vsup|assamve}}
+*'''asshekh''' [aʃʃex] <span id="asshekh"></span>
+:''adv.'' today
+:''ni.'' today
+:''na.'' day
+:{{Quote|Kisha ray hezhahish chek asshekh.|Kisha avimithreraki jinne.}}
+*'''asshekhqoyi''' [aʃʃexqɔji] <span id="asshekhqoyi"></span>
+:''ni.'' birthday
+:{{Nsup|assekhqoy}}
+*'''asshie''' [aʃʃie] <span id="asshie"></span>
+:''n.'' introduction
+*'''asshilat''' [aʃʃilat] <span id="asshilat"></span>
+:''v.'' to introduce, to present
+:{{Vsup|asshil}}
+:{{Quote|Anha asshilak jin azh shafkea haji rekoon et shafka.|I make this gift to you for what you did.}}
+*'''assikhqoyi''' [assixqɔji] <span id="assikhqoyi"></span>
+:''ni.'' sign, omen
+:{{Nsup|assikhqoy}}
+*'''assikhqoyisir''' [assixqɔjisir] <span id="assikhqoyisir"></span>
+:''na.'' prophecy
+*'''assilat''' [assilat] <span id="assilat"></span>
+:''v.'' to signal
+:''vtr.&rarr;all.'' to signal to
+:{{Vsup|assi}}
+*'''assilat''' [assilat] <span id="assilat"></span>
+:''vtr.'' to defeat
+:{{Vsup|assil}}
+:{{Quote|Me ezzo anhaan m'athdikar assila athzhokwazar.|He taught me that speed defeats size.}}
+*'''assokh''' [assox] <span id="assokh"></span>
+:''ni.'' message, instructions
+*'''assolat''' [assolat] <span id="assolat"></span>
+:''v.'' to command
+:{{Vsup|asso}}
+*'''astat''' [astat] <span id="astat"></span>
+:''v.'' to say
+:{{Vsup|ast}}
+:{{Quote|Ki jini anha astak asqoy, anha, Drogo ki Bharbosi.|This vow I, Drogo son of Bharbo.}}
+:{{Quote|Ifak asta meme zala firikhnharen.|The foreigner says that he wants a crown.}}
+*'''astilat''' [astilat] <span id="astilat"></span>
+:''v.'' to joke
+:''vtr.&rarr;gen.'' to joke about
+:{{Vsup|asti}}
+*'''asto''' [asto] <span id="asto"></span>
+:''n.'' saying, prayer
+*'''astolat''' [astolat] <span id="astolat"></span>
+:''v.'' to speak
+:''vtr.&rarr;gen.'' to speak of
+:{{Vsup|asto}}
+:{{Quote|Kisha vastoki vos alikh hrazefi ido m'adori shiqethi.|Let's speak no more about wooden horses or iron chairs.}}
+*'''at''' [at] <span id="at"></span>
+:''num.'' one
+*'''ataki''' [ataki] <span id="ataki"></span>
+:''adj.'' first
+*'''ath''' [aθ] <span id="ath"></span>
+:''adj.'' dry
+*'''athaddrivar''' [aθaddɾivar] <span id="athaddrivar"></span>
+:''ni.'' fatality
+*'''athahhaqar''' [aθahhaqɑr] <span id="athahhaqar"></span>
+:''ni.'' frustration
+*'''athaozar''' [aθaozar] <span id="athaozar"></span>
+:''ni.'' depths, deep
+*'''athasar''' [aθasar] <span id="athasar"></span>
+:''na.'' wasteland
+*'''athastokhdeveshizar''' [aθastoxdeveʃizar] <span id="athastokhdeveshizar"></span>
+:''ni.'' nonsense
+*'''athayozar''' [aθajozar] <span id="athayozar"></span>
+:''ni.'' waiting
+*'''athchilar''' [aθt͡ʃilar] <span id="athchilar"></span>
+:''ni.'' limit, lay, expanse
+*'''athchomar''' [aθt͡ʃomar] <span id="athchomar"></span>
+:''ni.'' respect, reverence
+*'''athchomar chomakea''' [aθt͡ʃomaɾ t͡ʃomakea] <span id="athchomar chomakea"></span>
+:''phrase'' "respect to those that are respectful" A greeting. (Said to a group of people.)
+*'''athdarinar''' [aθdaɾinar] <span id="athdarinar"></span>
+:''ni.'' lameness
+*'''athdavrazar''' [aθdavɾazar] <span id="athdavrazar"></span>
+:''ni.'' usefulness (also means ''good'' or ''excellent'' when used as an exclamation)
+*'''athdikar''' [aθdikar] <span id="athdikar"></span>
+:''ni.'' speed
+*'''athdisizar''' [aθdisizar] <span id="athdisizar"></span>
+:''ni.'' comfort, simplicity
+*'''athdrivar''' [aθdɾivar] <span id="athdrivar"></span>
+:''ni.'' death
+*'''athdrivarido''' [aθdɾivarido] <span id="athdrivarido"></span>
+:''ni.'' nightmare
+*'''athdrivar shekhi''' [aθdɾivar ʃexi] <span id="athdrivar shekhi"></span>
+:''ni.'' sunset 
+*'''athessazar''' [aθessazar] <span id="athessazar"></span>
+:''ni.'' return
+*'''athezar''' [aθezar] <span id="athezar"></span>
+:''ni.'' departure
+*'''athezhirar''' [aθeʒiɾar] <span id="athezhirar"></span>
+:''ni.'' dancing
+*'''athfiezar''' [aθfiezar]<span id="athezhirar"></span>
+:''ni.'' love (between siblings or friends)
+*'''athgoshar''' [aθgoʃar] <span id="athgoshar"></span>
+:''ni.'' certainty
+*'''athhilezar''' [aθhilezar] <span id="athhilezar"></span>
+:''ni.'' sex
+*'''athijezar''' [aθid͡ʒezar] <span id="athijezar"></span>
+:''ni.'' woman-on-top sex
+*'''athjahakar''' [aθd͡ʒahakar] <span id="athjahakar"></span>
+:''ni.'' pride, prowess
+*'''athjerizar''' [aθd͡ʒeɾizar] <span id="athjerizar"></span>
+:''ni.'' discussion
+*'''athjilar''' [aθd͡ʒilar] <span id="athjilar"></span>
+:''ni.'' correct (when used as an exclamation, lit. rightness)
+*'''athkemar''' [aθkemar] <span id="athkemar"></span>
+:''ni.'' marriage
+*'''athlanar''' [aθlanar] <span id="athlanar"></span>
+:''ni.'' running
+*'''athlaqar''' [aθlaqɑr] <span id="athlaqar"></span>
+:''ni.'' wailing
+*'''athmanimvenar''' [aθmanimvenar] <span id="athmanimvenar"></span>
+:''ni.'' anxiousness
+*'''athmithrar''' [aθmiθɾar] <span id="athmithrar"></span>
+:''ni.'' rest
+*'''athmovezar''' [aθmovezar] <span id="athmovezar"></span>
+:'' ni.'' magic
+*'''athniqar''' [aθniqɑr] <span id="athniqar"></span>
+:''ni.'' rigidity
+*'''athnithar''' [aθniθar] <span id="athnithar"></span>
+:''ni.'' pain
+*'''athnithmenar''' [aθniθmenar] <span id="athnithmenar"></span>
+:''ni.'' painlessness
+*'''athohharar''' [aθohhaɾar] <span id="athohharar"></span>
+:''ni.'' collapse, defeat
+*'''atholat''' [aθolat] <span id="atholat"></span>
+:''v.'' to dry
+:{{Vsup|atho}}
+*'''athostar''' [aθostar] <span id="athostar"></span>
+:''ni.'' fury
+*'''athrokhar''' [aθɾoxar] <span id="athrokhar"></span>
+:''ni.'' fear
+*'''athtihar''' [aθtihar] <span id="athtihar"></span>
+:''ni.'' vision, look
+*'''athvezhvenar''' [aθveʒvenar] <span id="athvezhvenar"></span>
+:''ni.'' greatness, excellent (when used as an exclamation)
+*'''athvilajerar''' [aθvilad͡ʒeɾar] <span id="athvilajerar"></span>
+:''ni.'' war
+*'''athvillar''' [aθvillar] <span id="athvillar"></span>
+:''ni.'' wisdom (that is gained from experience or learned)
+*'''athyolar''' [aθjolar] <span id="athyolar"></span>
+:''ni.'' birth
+*'''athzalar''' [aθzalar] <span id="athzalar"></span>
+:''ni.'' hope
+*'''athzhikhar''' [aθʒixar] <span id="athzhikhar"></span>
+:''ni.'' sickness
+*'''athzhilar''' [aθʒilar] <span id="athzhilar"></span>
+:''ni.'' love (used of romantic or sexual love; a private word)
+*'''athzhokwazar''' [aθʒokwazar] <span id="athzhokwazar"></span>
+:''ni.'' size
+*'''athzhowakar''' [aθʒowakar] <span id="athzhowakar"></span>
+:''ni.'' danger
+*'''ato''' [ato] <span id="ato"></span>
+:''ni.'' one
+:{{Nsup|ate}}
+:''n.'' something
+*'''atte''' [atte] <span id="atte"></span>
+:''adv.'' first, firstly
+*'''atthar''' [aθθar] <span id="atthar"></span>
+:''ni.'' duty
+*'''atthasat''' [aθθasat] <span id="atthasat"></span>
+:''v.'' to make someone/something fall, to defeat, to destroy (insulting)
+:{{Vsup|atthas}}
+*'''atthi''' [aθθi] <span id="atthi"></span>
+:''num.'' eleven
+*'''atthirar''' [aθθiɾar] <span id="atthirar"></span>
+:''ni.'' life
+*'''atthirarido''' [aθθiɾaɾido] <span id="atthirarido"></span>
+:''ni.'' dream
+*'''attihat''' [attihat] <span id="attihat"></span>
+:''vtr.'' to show
+:{{Vsup|attih}}
+:{{Quote|Hash yer laz chari anna; hash yer ray vos o, attihas anna.|If you are still in there, if you haven't gone away, show me.}}
+*'''ave''' [ave] <span id="ave"></span>
+:''na.'' father
+*'''avvemolat''' [avvemolat] <span id="avvemolat"></span>
+:''v.'' to kneel (something)
+:{{Vsup|avvemo}}
+*'''avvirsalat'''
+:''vtr.'' to burn something
+:{{Vsup|avvirsa}}
+*'''avvitisherat''' [avvitiʃeɾat] <span id="avvitisherat"></span>
+:''vtr.'' to grow something
+*'''avvos''' [avvos] <span id="avvos"></span>
+:''adv.'' never
+:{{Quote|Anha adothrak hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.|I will ride wooden horses across the black salt sea as no khal has done before.}}
+*'''awazak''' [awazak] <span id="awazak"></span>
+:''na.'' screamer
+*'''awazat''' [awazat] <span id="awazat"></span>
+:''v.'' to scream
+:{{Vsup|awaz}}
+*'''ayena''' [ajena] <span id="ayena"></span>
+:''ni.'' bell
+:{{Nsup|ayene}}
+*'''ayolat''' [ajolat] <span id="ayolat"></span>
+:''vin.'' to wait
+:{{Vsup|ayol}}
+*'''ayyey''' [ajjej] <span id="ayyey"></span>
+:''adv.'' always
+*'''az''' [az] <span id="az"></span>
+:''ni.'' blade
+*'''azhasavva''' [aʒasavva] <span id="azhasavva"></span>
+:''ni.'' blessing
+:{{Nsup|azhasavve}}
+*'''azhat''' [aʒat] <span id="azhat"></span>
+:''vtr.'' to give (something to someone; recipient is in allative)
+:{{Vsup|azh}}
+:{{Quote|Anha vazhak maan Rhaeshis Andahli.|I will give The Lands of the Andals.}}
+*'''azho''' [aʒo] <span id="azho"></span>
+:''ni.'' gift
+:{{Nsup|azh}}
+*'''azzafrok''' [azzafrok] <span id="azzafrok"></span>
+:''na.'' slaver
+*'''azzafrolat''' [azzafrolat] <span id="azzafrolat"></span>
+:''vtr.'' to enslave
+:{{Vsup|azzafro}}
+*'''azzisat''' [azzisat] <span id="azzisat"></span>
+:''vtr.'' to harm someone
+:{{Vsup|azzis}}
+:{{Quote|Me azzisa anna jin tihat meyer qiyae.|It makes me hurt to see you bleed.}}
+*'''azzohat''' [azzohat] <span id="azzohat"></span>
+:''vtr.'' to put something down
+:{{Vsup|azzoh}}
+:{{Quote|Rakharo, azzohi haz khogare.|Rakharo, put down that cask.}}
+
+=== C ===
+
+*'''chaf''' [t͡ʃaf] <span id="chaf"></span>
+:''na.'' wind
+*'''chafak''' [t͡ʃafak] <span id="chafak"></span>
+:''na.'' mercenary, turncloak, traitor
+*'''chafasar''' [t͡ʃafasar] <span id="chafasar"></span>
+:''na.'' climate
+*'''chafka''' [t͡ʃafka] <span id="chafka"></span>
+:''ni.'' autumn
+:{{Nsup|chafk}}
+*'''chak''' [t͡ʃak] <span id="chak"></span>
+:''adj'' silent
+*'''chakat''' [t͡ʃakat] <span id="chakat"></span>
+:''num.'' twenty
+:''vin.'' to be silent
+:{{Vsup|chak}}
+*'''chal''' [t͡ʃal] <span id="chal"></span>
+:''ni.'' bean (general use)
+*'''challeya''' [t͡ʃalleja] <span id="challeya"></span>
+:''ni.'' bean (when used as food)
+*'''charat''' [t͡ʃaɾat] <span id="charat"></span>
+:''vtr.'' to hear
+:''vtr.&rarr;abl.'' to hear some of
+:''vtr.&rarr;gen.'' to hear about
+:{{Vsup|char}}
+:{{Quote|Anha ray char m'ave yeri lajakoon hakeso.|I heard that your father was a famous warrior.}}
+*'''chare''' [t͡ʃaɾe] <span id="chare"></span>
+:''ni.'' ear
+:{{Nsup|char}}
+*'''charolat''' [t͡ʃaɾolat] <span id="charolat"></span>
+:''v.'' to listen
+:{{Vsup|charo}}
+:{{Quote|Ishish chare acharoe hash me nem ejervae nharesoon.|Maybe the ear will listen if it is removed from the head.}}
+*'''che''' [t͡ʃe] <span id="che"></span>
+:''conj.'' either, or
+:{{Quote|Ifak asta meme zala firikhnharen …che me vesazhae khaleesies.|The foreigner says that he wants a crown ...or he will take back the khaleesi.}}
+*'''chek''' [t͡ʃek] <span id="chek"></span>
+:''adv.'' well
+*'''chelsian''' [t͡ʃelsian] <span id="chelsian"></span>
+:''na.'' locust
+*'''cheno''' [t͡ʃeno] <span id="cheno"></span>
+:''ni.'' liver
+:{{Nsup|chen}}
+*'''chetira''' [t͡ʃetiɾa] <span id="chetira"></span>
+:''ni.'' a distance of about half mile, cantered in one '''[[Vocabulary#leshitof|leshitof]]'''
+*'''chetirat''' [t͡ʃetiɾat] <span id="chetirat"></span>
+:''v.'' to canter
+:''vtr.&rarr;gen.'' to canter beside
+:{{Vsup|chetir}}
+*'''cheyao''' [t͡ʃejao] <span id="cheyao"></span>
+:''na.'' dark bay horse
+*'''cheyaoven''' [t͡ʃejaoven] <span id="cheyaoven"></span>
+:''adj.'' dark brown skinned
+*'''chifekh''' [t͡ʃifex] <span id="chifekh"></span>
+:''num.'' seventy
+*'''chifti''' [t͡ʃifti] <span id="chifti"></span>
+:''na.'' cricket
+*'''chiftik''' [t͡ʃiftik] <span id="chiftik"></span>
+:''na.'' cricket man (used as an insult)
+*'''chiftikh''' [t͡ʃiftix] <span id="chiftikh"></span>
+:''ni.'' weak or glancing sword blow
+*'''chilat''' [t͡ʃilat] <span id="chilat"></span>
+:''v.'' to lie (down)
+:{{Vsup|chil}}
+*'''chilay''' [t͡ʃilaj] <span id="chilay"></span>
+:''adj.'' lying, supine
+*'''chimek''' [t͡ʃimek] <span id="chimek"></span>
+:''num.'' fifty
+*'''chiori''' [t͡ʃioɾi] <span id="chiori"></span>
+:''na.'' woman
+:{{Quote|Anha aqorisok chiories mori ma afichak vojjor samva Vaesaan Dothrak.|I will rape their women and bring their broken gods back to Vaes Dothrak.}}
+*'''chiorikem''' [t͡ʃioɾikem] <span id="chiorikem"></span>
+:''ni.'' wife
+*'''chiqazat''' [t͡ʃiqɑzat] <span id="chiqazat"></span>
+:''num.'' ninty
+*'''chir''' [t͡ʃir] <span id="chir"></span>
+:''v. aux.'' almost, nearly
+*'''chisen''' [t͡ʃisen] <span id="chisen"></span>
+:''num.'' thirty
+*'''chitor''' [t͡ʃitor] <span id="chitor"></span>
+:''num.'' fourty
+*'''chiva''' [t͡ʃiva] <span id="chiva"></span>
+:''ni.'' horn
+*'''chizhinda''' [t͡ʃiʒinda] <span id="chizhinda"></span>
+:''num.'' sixty
+*'''chomak''' [t͡ʃomak] <span id="chomak"></span>
+:''na.'' one who is respectful (insulting when used for a fellow Dothraki)
+:{{Quote|Athchomar chomakaan, zhey khal vezhven.|Respect to one that is respectful, great khal.}}
+*'''chomat''' [t͡ʃomat] <span id="chomat"></span>
+:''v.'' to be respectful
+:''vtr.&rarr;all.'' to respect
+:{{Vsup|chom}}
+*'''chomokh''' [t͡ʃomax] <span id="chomokh"></span>
+:''ni.'' honor
+*'''chomolat''' [t͡ʃomolat] <span id="chomolat"></span>
+:''vin.'' to grow respectful
+:''vtr.'' to give respect to, to honour 
+:{{Vsup|chomo}}
+*'''chongat''' [t͡ʃongat] <span id="chongat"></span>
+:''v.'' to be hard
+:{{Vsup|chonge}}
+*'''chongolat''' [t͡ʃongolat] <span id="chongolat"></span>
+:''v.'' to solidify
+:{{Vsup|chongo}}
+*'''choo''' [t͡ʃoo] <span id="choo"></span>
+:''na.'' pika
+*'''chori''' [t͡ʃoɾi] <span id="chori"></span>
+:''num.'' eighty
+*'''chorkat''' [t͡ʃoɾkat] <span id="chorkat"></span>
+:''v.'' to roll
+*'''chosh''' [t͡ʃoʃ] <span id="chosh"></span>
+:''adj.'' fresh
+*'''chot''' [t͡ʃot] <span id="chot"></span>
+:''ni.'' beet
+*'''chotteya''' [t͡ʃotteja] <span id="chotteya"></span>
+:''ni.'' beet paste
+:{{Nsup|chottey}}
+*'''choyo''' [t͡ʃojo] <span id="choyo"></span>
+:''ni.'' joke word for someone's behind
+
+=== D ===
+
+*'''daeni''' [daeni] <span id="daeni"></span>
+:''ni.'' leaf
+:{{Nsup|daen}}
+*'''dahaan''' [dahaan] <span id="dahaan"></span>
+:''adj.'' green
+*'''dahana''' [dahana] <span id="dahana"></span>
+:''ni.'' grass of certain kind
+:{{Nsup|dahan}}
+*'''daki''' [daki] <span id="daki"></span>
+:''ni.'' pomegranate
+:{{Nsup|dak}}
+*'''dalen''' [dalen] <span id="dalen"></span>
+:''num.'' thousand
+*'''dalfe''' [dalfe] <span id="dalfe"></span>
+:''ni.'' cow, beef
+:{{Nsup|dalfe}}
+*'''dan''' [dan] <span id="dan"></span>
+:''ni.'' ford
+:''ni.'' gem
+*'''dana''' [dana] <span id="dana"></span>
+:''ni.'' clearing in a forest
+*'''darif''' [daɾif] <span id="darif"></span>
+:''ni.'' saddle
+*'''darin''' [daɾin] <span id="darin"></span>
+:''adj.'' lame, limp
+*'''dave''' [dave] <span id="dave"></span>
+:''na.'' rosemary bush
+:''adj.'' pungent
+*'''davra''' [davɾa] <span id="davra"></span>
+:''adj.'' good, useful
+:'''davralat''' ''vin.'' to be useful
+:''vtr.&rarr;all.'' to be useful to
+:{{Vsup|davra}}
+*'''davrakh''' [davɾax] <span id="davrakh"></span>
+:''ni.'' useful thing, app
+*'''davveya''' [davveja] <span id="davveya"></span>
+:''ni.'' rosemary
+*'''dech''' [det͡ʃ] <span id="dech"></span>
+:''ni.'' cheek (on the face)
+*'''dei''' [dei] <span id="dei"></span>
+:''adj.'' shallow
+:''adv.'' light (of color)
+*'''devesh''' [deveʃ] <span id="devesh"></span>
+:''ni.'' fog
+*'''devolat''' [devolat] <span id="devolat"></span>
+:''vtr.'' to know how, to be able to
+:{{Vsup|devo}}
+*'''diaf''' [diaf] <span id="diaf"></span>
+:''ni.'' skull
+*'''dik''' [dik] <span id="dik"></span>
+:''adj.'' fast
+*'''dili''' [dili] <span id="dili"></span>
+:''ni.'' flash, sparkle
+:{{Nsup|dil}}
+*'''dirgat''' [diɾgat] <span id="dirgat"></span>
+:''v.'' to think
+:{{Vsup|dirge}}
+*'''dirge''' [diɾge] <span id="dirge"></span>
+:''ni.'' thought, idea
+:{{Nsup|dirge}}
+*'''dis''' [dis] <span id="dis"></span>
+:''adj.'' simple, plain
+*'''dishah''' [diʃah] <span id="dishah"></span>
+:''ni.'' bark
+*'''disisse''' [disisse] <span id="disisse"></span>
+:''adj.'' very simple
+*'''disse''' [disse] <span id="disse"></span>
+:''adv.'' only, just
+:{{Quote|Kash qoy qoyi thira disse.|Only while blood of my blood lives.}}
+:{{Quote|Khal vos zigereo adoroon anevasoe maan. Me zigeree sojasoon disse.|A khal doesn't need a chair to sit on. He only needs a steed.}}
+*'''diwe''' [diwe] <span id="diwe"></span>
+:''adj.'' wet
+:'''diwelat''' ''vin.'' to be wet
+:{{Vsup|diwe}}
+*'''dogat''' [dogat] <span id="dogat"></span>
+:''vin.'' to suffer
+:''vtr.&rarr;abl.'' to suffer from
+:{{Vsup|doge}}
+*'''donat''' [donat] <span id="donat"></span>
+:''v.'' to shout
+:''vtr.&rarr;gen.'' to shout about
+:{{Vsup|don}}
+*'''dorvi''' [doɾvi] <span id="dorvi"></span>
+:''ni.'' goat
+:{{Nsup|dorv}}
+*'''dorvof''' [doɾvof] <span id="dorvof"></span>
+:''ni.'' ibex
+*'''dosh khaleen''' [doʃ xaleen] <span id="dosh khaleen"></span>
+:''np.'' Council of crones. Group of widowed khaleesi.
+*'''dothrak''' [doθɾak] <span id="dothrak"></span>
+:''na.'' rider
+*'''dothrakh''' [doθɾax] <span id="dothrakh"></span>
+:''ni.'' ride
+*'''dothrakhqoyi''' [doθɾaxqɔji] <span id="dothrakhqoyi"></span>
+:''ni.'' bloodrider
+:{{Nsup|dothrakhqoy}}
+*'''dothraki''' [doθɾaki] <span id="dothraki"></span>
+:''prop. n.'' men who ride, the Dothraki people
+*'''dothralat''' [doθɾalat] <span id="dothralat"></span>
+:''v.'' to ride (With horse, steed or my horse, my steed)
+:''vtr.&rarr;gen.'' to ride alongside
+:''v.'' to have an erection
+:{{Vsup|dothra}}
+:{{Quote|Anha adothrak hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.|I will ride wooden horses across the black salt sea as no khal has done before.}}
+*'''dovoeddi''' [dovoeddi] <span id="dovoeddi"></span> (from Valyrian {{AVlex|Dovoghedhy}})
+:''n.'' unsullied
+*'''dozgikh''' [dozgix] <span id="dozgkh"></span>
+:''ni.'' animal carcass
+*'''dozgo''' [dozgo] <span id="dozgo"></span>
+:''ni./na.'' enemy (animate is used when a specific enemy is being referred to)
+*'''dozgosor''' [dozgosor] <span id="dozgosor"></span>
+:''na.'' enemy horde, slang for one's own khalasar. 
+*'''drane''' [dɾane] <span id="drane"></span>
+:''na.'' mother who is still breast feeding
+*'''dranekh''' [dɾanex] <span id="dranekh"></span>
+:''ni.'' mother's milk (of a human)
+*'''drekat''' [dɾekat] <span id="drekat"></span>
+:''vin.'' to spill (non-volitional e.g. the milk spilled)
+*'''drekolat''' [dɾekolat] <span id="drekolat"></span>
+:''vtr.'' to come to spill, to tip over and then spill
+*'''driv''' [dɾiv] <span id="driv"></span>
+:''adj.'' dead
+:'''drivat''' ''vin.'' to be dead
+:{{Vsup|driv}}
+*'''drivolat''' [dɾivolat] <span id="drivolat"></span>
+:''vin.'' to die
+:''vtr.&rarr;abl.'' to die from
+:{{Vsup|drivo}}
+*'''drogat''' [drogat] <span id="drogat"></span>
+:''vtr.'' to drive (animals)
+:{{Vsup|droge}}
+*'''drogikh''' [drogikh] <span id="drogikh"></span>
+:''ni.'' herd
+:{{Quote|Okki zhille hrazef fin allayafa shafka drogikhoon anni.|Choose any horse you wish from my herd.}}
+*'''drozhat''' [dɾoʒat] <span id="drozhat"></span>
+:''vtr'' to slay, to kill (done by inanimate objects, animals, or otherwise unaware)
+:{{Vsup|drozh}}
+
+=== E ===
+*'''edavrasa''' [edavɾasa] <span id="edavrasa"></span>
+:''adj.'' useless, of poor quality
+*'''efat''' [efat] <span id="efat"></span>
+:''v.'' to squeeze
+*'''efe''' [efe] <span id="efe"></span>
+:''ni.'' shackle
+*'''efesalat''' [efesalat] <span id="efesalat"></span>
+:''vtr'' to uproot, to scratch
+:{{Vsup|efesa}}
+*'''ei''' [ei] <span id="ei"></span>
+:''det.'' all, every
+*'''ejakh''' [ed͡ʒax] <span id="ejakh"></span>
+:''ni.'' bank (of a river, lake or pond)
+*'''ejervalat''' [ed͡ʒeɾvalat] <span id="ejervalat"></span>
+:''v.'' to remove
+:{{Vsup|ejerva}}
+:{{Quote|Ishish chare acharoe hash me nem ejervae nharesoon.|Maybe the ear will listen if it is removed from the head.}}
+*'''ekhogaralat''' [exogaɾalat] <span id="ekhogaralat"></span>
+:''v.'' to undress
+:{{Vsup|ekhogara}}
+*'''elain''' [elain] <span id="elain"></span>
+:''n.'' seed, sperm
+*'''elainat''' [elainat] <span id="elainat"></span>
+:''v.'' to plant
+:{{Vsup|elain}}
+*'''elat''' [elat] <span id="elat"></span>
+:''v.'' to go
+:''vtr.&rarr;gen.'' to go along with
+:{{Vsup|e}}
+*'''eleisosakh''' [eleisosax] <span id="eleisosakh"></span>
+:''ni.'' "via point"
+*'''elme''' [elme] <span id="elme"></span>
+:''ni.'' shoulder
+*'''elzat''' [elzat] <span id="elzat"></span>
+:''v.'' to respond
+:{{Vsup|elz}}
+*'''elzikh''' [elzix] <span id="elzikh"></span>
+:''ni.'' response
+*'''emat''' [emat] <span id="emat"></span>
+:''vin.'' to smile
+:''vtr.&rarr;all.'' to smile at, to approve of
+:{{Vsup|em}}
+*'''eme''' [eme] <span id="eme"></span>
+:''ni.'' smile
+:{{Nsup|em}}
+*'''emesh''' [emeʃ] <span id="emesh"></span>
+:''ni.'' smiley
+*'''emmat''' [emmat] <span id="emmat"></span>
+:''vtr.'' to amuse
+:{{Vsup|emme}}
+*'''emmalat''' [emmalat] <span id="emmalat"></span>
+:''vtr.'' to make something enter (from emralat)
+:{{Vsup|emma}}
+*'''emrakh''' [emɾax] <span id="emrakh"></span>
+:''ni.'' gate
+*'''Emrakh Hrazefi''' [emɾax hɾazefi] <span id="Emrakh Hrazefi"></span>
+:''prop. n.'' Horse Gate
+*'''emralat''' [emɾalat] <span id="emralat"></span>
+:''v.'' to enter
+:{{Vsup|emra}}
+*'''enossho''' [enoʃʃo] <span id="enossho"></span>
+:''ni.'' mule
+:{{Nsup|enosh}}
+*'''enta''' [enta] <span id="enta"></span>
+:''n.'' baby, infant
+*'''eqorasalat''' [eqɔrasalat] <span id="eqorasalat"></span>
+:''vtr.'' to let go of
+:{{Vsup|eqorasa}}
+*'''erin''' [eɾin] <span id="erin"></span>
+:''adj.'' kind, good
+:'''erinat''' [eɾinat]
+:''v.'' to be kind, to be good
+:{{Vsup|erin}}
+*'''erinak''' [eɾinak] <span id="erinak"></span>
+:''na.'' lady, kind one
+:{{Quote|M'anhoon vekha virzethi gizkhvena Dornoon, zhey erinak.|I have a sweet red from Dorne, my lady.}}
+*'''ershe''' [eɾʃe] <span id="ershe"></span>
+:''adj.'' old
+*'''es''' [es] <span id="es"></span>
+:''adj.'' smooth
+*'''esazhalat''' [esaʒalat] <span id="esazhalat"></span>
+:''v.'' to take something back
+:{{Vsup|esazha}}
+:{{Quote|Me asta meme vos vesazhao khalakkaes.|He says that he will not take back the prince.}}
+*'''esemrasakh''' [esemɾasax] <span id="esemrasakh"></span>
+:''ni.'' exit
+*'''esemrasalat''' [esemɾasalat] <span id="esemrasalat"></span>
+:''v.'' to exit, to leave
+:{{Vsup|esemrasa}}
+*'''eshina''' [eʃina] <span id="eshina"></span>
+:''n.'' fish
+*'''eshna''' [eʃna] <span id="eshna"></span>
+:''adv.'' another, other
+*'''esina''' [esina] <span id="esina"></span>
+:''adj.'' different
+:'''esinalat''' ''vin.'' to be different
+:{{Vsup|esina}}
+*'''esinakh''' [esinax] <span id="esinakh"></span>
+:''ni.'' a different thing
+:{{Quote|Khaleesi zala meme adakha esinakh ajjalan.|The khaleesi wants to eat something different tonight.}}
+*'''esinasolat''' [esinasolat] <span id="esinasolat"></span>
+:''vin.'' to change
+:{{Vsup|esinaso}}
+*'''esittesak''' [esittesak] <span id="esittesak"></span>
+:''na.'' braggart, blowhard
+*'''esittesalat''' [esittesalat] <span id="esittesalat"></span>
+:''v.'' to brag, to exaggerate
+:{{Vsup|esittesa}}
+*'''essalat''' [essalat] <span id="essalat"></span>
+:''vin.'' to return
+:{{Vsup|essa}}
+*'''essheya''' [eʃʃej] <span id="essheya"></span>
+:''ni.'' roof, top part, top
+:{{Nsup|esshey}}
+*'''eth''' [eθ] <span id="eth"></span>
+:''v. aux.'' must, have to
+*'''evat''' [evat] <span id="evat"></span>
+:''vtr.'' to start doing something (used with verb)
+*'''eve''' [eve] <span id="eve"></span>
+:''n.'' tail
+*'''eveth''' [eveθ] <span id="eveth"></span>
+:''ni.'' water
+*'''evethiz''' [eveθiz] <span id="evethiz"></span>
+:''ni.'' poison water
+*'''evolat''' [evolat] <span id="evolat"></span>
+:''vin.'' to start
+:{{Vsup|evo}}
+*'''evvat''' [evvat] <span id="evvat"></span>
+:''vtr.'' to start something
+*'''ewe''' [ewe] <span id="ewe"></span>
+:''n.'' olive
+*'''ewekh''' [ewex] <span id="ewekh"></span>
+:''ni.'' olive oil
+*'''ewweya''' [ewweja] <span id="ewweya"></span>
+:''ni.'' olive pit
+:{{Nsup|ewwey}}
+*'''eyak''' [ejak] <span id="eyak"></span>
+:''pn.'' everyone
+*'''eyel''' [ejel] <span id="eyel"></span>
+:''ni.'' rain
+*'''eyelat''' [ejelat] <span id="eyelat"></span>
+:''vtr.'' to move something
+*'''eyeli''' [ejeli] <span id="eyeli"></span>
+:''adj.'' spotted
+:'''eyelilat''' ''vin.'' to be spotted
+*'''eyelke''' [ejelke] <span id="eyelke"></span>
+:''ni.'' spring
+:{{Nsup|eyelk}}
+*'''ezat''' [ezat] <span id="ezat"></span>
+:''v.'' to find
+:{{Vsup|ez}}
+:{{Quote|Ezas loy alegri h'anhaan.|Find some ducks for me.}}
+*'''ezhirat''' [eʒiɾat] <span id="ezhirat"></span>
+:''vin.'' to dance
+:{{Vsup|ezhir}}
+*'''ezhiray''' [eʒiɾaj] <span id="ezhiray"></span>
+:''adj.'' dancing
+*'''ezok''' [ezok] <span id="ezok"></span>
+:''na.'' learner
+*'''ezolat''' [ezolat] <span id="ezolat"></span>
+:''v.'' to learn
+:{{Vsup|ezo}}
+*'''ezzolat''' [ezzolat] <span id="ezzolat"></span>
+:''v.'' to teach
+:{{Vsup|ezzo}}
+:{{Quote|Ave anni ezzo anhaan os lajataan. Me ezzo anhaan m'athdikar assie athzhokwazar.|My father taught me how to fight. He taught me that speed defeats size.}}
+
+=== F ===
+
+*'''fakat''' [fakat] <span id="fakat"></span>
+:''vtr.'' to kick
+:''vtr.&rarr;all.'' to kick at
+:{{Vsup|fak}}
+*'''fansa''' [fansa] <span id="fansa"></span>
+:''n.'' dapple horse
+*'''faqqi''' [faqqe] <span id="faqqi"></span>
+:''na.'' corn bunting (a bird)
+*'''fas''' [fas] <span id="fas"></span>
+:''n.'' cloud
+*'''fasqoyi''' [fasqɔji] <span id="fasqoyi"></span>
+:''ni.'' destiny
+*'''fatat''' [fatat] <span id="fatat"></span>
+:''vtr.'' to slap
+:''vtr.&rarr;all.'' to slap at
+:{{Vsup|fat}}
+*'''fatilat''' [fatilat] <span id="fatilat"></span>
+:''vtr.'' to insult
+:''vtr.&rarr;all.'' to throw an insult at
+:{{Vsup|fati}}
+*'''fejat''' [fed͡ʒat] <span id="fejat"></span>
+:''v.'' to hate
+*'''fekh''' [fex] <span id="fekh"></span>
+:''num.'' seven
+*'''felde''' [felde] <span id="felde"></span>
+:''n.'' wing
+*'''feldekh''' [feldex] <span id="feldekh"></span>
+:''ni.'' feather
+*'''fenat''' [fenat] <span id="fenat"></span>
+:''vtr.'' to attach
+*'''ferri''' [feri] <span id="ferri"></span>
+:''ni.'' hemp (material)
+:{{Nsup|fer}}
+*'''feshith''' [feʃiθ] <span id="feshith"></span>
+:''n.'' tree
+*'''feso''' [feso] <span id="feso"></span>
+:''ni.'' carrot
+:{{Nsup|fes}}
+*'''fevelat''' [fevelat] <span id="fevelat"></span>
+:''vin.'' to thirst
+:''vtr.&rarr;abl.'' to thirst for
+:{{Vsup|feve}}
+*'''fichat''' [fit͡ʃat] <span id="fichat"></span>
+:''vtr.'' to take, to bring, to fetch
+:{{Vsup|fich}}
+:{{Quote|Anha afichak vojjor samva Vaesaan Dothrak.|I will bring their broken gods back to Vaes Dothrak.}}
+*'''fiez''' [fiez] <span id="fiez"></span>
+:''n.'' rope
+*'''fih''' [fih] <span id="fih"></span>
+:''ni.'' smoke
+*'''filkak''' [filkak] <span id="filkak"></span>
+:''na.'' coward
+*'''filkat''' [filkat] <span id="filkat"></span>
+:''vin.'' To move like a caterpillar
+:{{Vsup|filk}}
+*'''filki''' [filki] <span id="filki"></span>
+:''ni.'' caterpillar
+:{{Nsup|filk}}
+*'''filla''' [filla] <span id="filla"></span>
+:''ni.'' dried plum
+*'''fin''' [fin] <span id="fin"></span>
+:''pn.'' what (question word, when speaking of an animate object)
+:''pn.'' relative pronoun to introduce relative clause (when speaking of an animate object)
+:'''fini''' ''pn.'' relative pronoun to introduce relative clause (when speaking of an inanimate object)
+:''pn.'' what (question word, when speaking of an inanimate object)
+:{{Quote|Anha vidrik khalasares anni jim, finaan nakhoe rhaesheser.|I will take my khalasar west to where the world ends.}}
+:{{Quote|Vezh fin saja rhaesheseres!|The stallion that mounts the world!}}
+*'''finne''' [finne] <span id="finne"></span>
+:''pn.'' where
+*'''fir''' [fir] <span id="fir"></span>
+:''adj.'' round
+*'''fire''' [fiɾe] <span id="fire"></span>
+:''ni.'' ring, circle
+*'''firesof''' [fiɾesof] <span id="firesof"></span>
+:''ni.'' year
+*'''firi''' [fiɾi] <span id="firi"></span>
+:''n.'' ball
+*'''firikh''' [fiɾix] <span id="firikh"></span>
+:''ni.'' ring
+*'''firikhnharen''' [fiɾixnhaɾen] <span id="firikhnharen"></span>
+:''ni.'' crown
+*'''fish''' [fiʃ] <span id="fish"></span>
+:''adj.'' cold
+*'''fitte''' [fitte] <span id="fitte"></span>
+:''adj.'' short
+*'''fitteya''' [fitteja] <span id="fitteya"></span>
+:''ni.'' an unnoticed and uncalled-for erection
+:{{Nsup|fittey}}
+*'''flas''' [flas] <span id="flas"></span>
+:''ni.'' a film on top of a soup; cream
+*'''flasikh''' [flasix] <span id="flasikh"></span>
+:''ni.'' update
+*'''flech''' [flet͡ʃ] <span id="flech"></span>
+:''adj.'' dull
+*'''fonak''' [fonak] <span id="fonak"></span>
+:''na.'' hunter
+*'''fonakasar''' [fonakasar] <span id="fonakasar"></span>
+:''na.'' hunting party
+*'''fonas chek''' [fonas t͡ʃek] <span id="fonas chek"></span>
+:''phrase'' said at parting, meaning "Hunt well".
+*'''fonat''' [fonat] <span id="fonat"></span>
+:''v.'' to hunt
+:{{Vsup|fon}}
+*'''fonolat''' [fonolat] <span id="fonolat"></span>
+:''vtr.'' to track, to seek
+:{{Vsup|fono}}
+*'''fotha''' [foθa] <span id="fotha"></span>
+:''ni.'' throat
+*'''foz''' [foz] <span id="foz"></span>
+:''adj.'' old
+*'''fozak''' [fozak] <span id="fozak"></span>
+:''na.'' elder
+*'''frakhat''' [fɾaxat] <span id="frakhat"></span>
+:''vtr.'' to touch
+:''vtr.&rarr;all.'' to reach to touch
+:{{Vsup|frakh}}
+*'''frakholat''' [fɾaxolat] <span id="frakholat"></span>
+:''vtr.'' to feel
+:{{Vsup|frakho}}
+*'''fredri''' [fɾedri] <span id="fredri"></span>
+:''n.'' The sound of horse hooves on dirt
+:'''fredrilat''' ''vin.'' to run (with horse as subject)
+:'''fredrik''' ''na.'' chatterbox, one who sounds like horses hooves
+
+=== G ===
+
+*'''gachat''' [gat͡ʃat] <span id="gachat"></span>
+:''v.'' to figure out, to solve
+:{{Vsup|gach}}
+*'''gache''' [gat͡ʃe] <span id="gache"></span>
+:''ni.'' place, environs
+:{{Nsup|gach}}
+*'''gadim''' [gadim] <span id="gadim"></span>
+:''ni.'' lungs
+*'''gaezo''' [gaezo] <span id="gaezo"></span>
+:''n.'' brother
+*'''gale''' [gale] <span id="gale"></span>
+:''n.'' egg
+*'''gamiz''' [gamiz] <span id="gamiz"></span>
+:''ni.'' rice
+*'''ganat''' [ganat] <span id="ganat"></span>
+:''v.'' to lean
+*'''gango''' [gango] <span id="gango"></span>
+:''ni.'' belly
+:{{Nsup|gange}}
+*'''gango awazat''' [gango awazat] <span id="gango awazat"></span>
+:''v.'' to feel anxious/excited
+*'''gaoli''' [gaoli] <span id="gaoli"></span>
+:''n.'' intestines
+*'''garfoth''' [gaɾfoθ] <span id="garfoth"></span>
+:''n.'' root
+*'''garvolat''' [gaɾvolat] <span id="garvolat"></span>
+:''vin.'' to grow hungry
+:''vtr.&rarr;abl.'' to hunger for
+:{{Vsup|garvo}}
+*'''gavat''' [gavat] <span id="gavat"></span>
+:''ni.'' meat
+*'''gendat''' [gendat] <span id="gendat"></span>
+:''vin.'' to be ripped, to be torn
+:{{Vsup|gend}}
+*'''gende''' [gende] <span id="gende"></span>
+:''n.'' rip
+:''adj.'' ripped
+*'''gendolat''' [gendolat] <span id="gendolat"></span>
+:''vin.'' to become ripped, to rip
+:{{Vsup|gendo}}
+*'''gerat''' [geɾat] <span id="gerat"></span>
+:''vtr.&rarr;abl.'' to lack
+:{{Vsup|ger}}
+*'''gerikh''' [geɾix] <span id="gerikh"></span>
+:''ni.'' lack
+*'''geve''' [geve] <span id="geve"></span>
+:''na.'' mole
+*'''gezri''' [gezɾi] <span id="gezri"></span>
+:''na.'' snake
+:{{Nsup|gezries}}
+*'''gezrikh''' [gezɾix] <span id="gezrikh"></span>
+:''ni.'' feint
+*'''gidat''' [gidat] <span id="gidat"></span>
+:''v.'' to push
+*'''gillo''' [gillo] <span id="gillo"></span>
+:''n.'' breeze
+*'''gillosor''' [gillosor] <span id="gillosor"></span>
+:''na.'' weather
+*'''gimi''' [gimi] <span id="gimi"></span>
+:''n.'' mouse
+*'''giz''' [giz] <span id="giz"></span>
+:''n.'' bee
+*'''gizikh''' [gizix] <span id="gizikh"></span>
+:''ni.'' honey
+*'''gizikhven''' [gizixven] <span id="gizikhven"></span>
+:''adj.'' sweet
+*'''glas''' [glas] <span id="glas"></span>
+:n. onion
+*'''glen''' [glen] <span id="glen"></span>
+:n. louse
+*'''gomma''' [gomma] <span id="gomma"></span>
+:''n.'' mouth of a human
+*'''gorat''' [goɾat] <span id="gorat"></span>
+:''v.'' to charge
+:{{Vsup|gor}}
+*'''goshat''' [goʃat] <span id="goshat"></span>
+:''v.'' to be certain, to be sure
+:{{Vsup|gosh}}
+*'''govat''' [govat] <span id="govat"></span>
+:''vtr.'' to mate with (of animals)
+:{{Vsup|gov}}
+*'''govak''' [govak] <span id="govak"></span>
+:''na.'' fucker (insult)
+*'''graddakh''' [gɾaddax] <span id="graddakh"></span>
+:''ni.'' waste, refuse
+:''intj.'' shit (generic undirected profanity)
+*'''gref''' [gɾef] <span id="gref"></span>
+:''n.'' wall
+*'''gwe''' [gwe] <span id="gwe"></span>
+:''intj.'' Here! Let's go! Go!
+
+=== H ===
+
+*'''h'''' [h]
+:''prep.'' (elided version, see '''[[Vocabulary#ha|ha]]''')
+*'''ha''' [ha] <span id="ha"></span>
+:''prep.&rarr;abl.'' from
+:''prep.&rarr;all.'' for
+:{{Quote|Nevakhi vekha ha maan.|There is a place for you.}}
+*'''hadaen''' [hadaen] <span id="hadaen"></span>
+:''ni.'' food
+*'''hador''' [hador] <span id="hador"></span>
+:''n.'' gust of wind
+*'''haesh''' [haeʃ] <span id="haesh"></span>
+:''ni.'' spawn
+*'''haesh rakhi''' [haeʃ raxi] <span id="haesh rakhi"></span>
+:''n.'' Lamb Men, Lhazareen "lit. spawn of lamb"
+*'''haf''' [haf] <span id="haf"></span>
+:''adj.'' soft, quiet
+*'''haj''' [had͡ʒ] <span id="haj"></span>
+:''adj.'' strong
+*'''haje''' [had͡ʒe] <span id="haje"></span>
+:''adj.'' right (direction)
+*'''hajekh''' [had͡ʒex] <span id="hajekh"></span>
+:''ni.'' right side
+*'''haji''' [had͡ʒi] <span id="haji"></span>
+:''prep.'' (default preposition for foreign words that don't decline)
+:''prep.&rarr;abl.'' because of, on account of
+:{{Quote|Anha asshilak jin azh shafkea haji rekoon et shafka.|I make this gift to you for what you did.}}
+*'''hajinaan''' [had͡ʒinaan] <span id="hajinaan"></span>
+:''conj.'' because (followed by prefix /'''me-'''/)
+*'''hajolat''' [had͡ʒolat] <span id="hajolat"></span>
+:''v.'' to grow strong
+:{{Vsup|hajo}}
+*'''hake''' [hake] <span id="hake"></span>
+:''na.'' name
+*'''hakelat''' [hakelat] <span id="hakelat"></span>
+:''v.'' to name something
+:{{Vsup|hake}}
+:{{Quote|Ma me nem ahakee ma Rhaego!|And he shall be called Rhaego.}}
+*'''hakeso''' [hakeso] <span id="hakeso"></span>
+:''adj.'' famous
+:{{Quote|Anha ray char m'ave yeri lajakoon hakeso.|I heard that your father was a famous warrior.}}
+*'''halah''' [halah] <span id="halah"></span>
+:''na.'' flower
+*'''halahi''' [halahi] <span id="halahi"></span>
+:''ni.'' tree that can blossom
+:{{Nsup|halah}}
+*'''Halahisir''' [halahisir] <span id="Halahisir"></span>
+:''prop.n.'' The Arbor
+*'''hale''' [hale] <span id="hale"></span>
+:''intj.'' hey (exclamation)
+*'''hammi''' [hammi] <span id="hammi"></span>
+:''n.'' yak
+*'''hanna''' [hanna] <span id="hanna"></span>
+:''ni.'' rose
+:{{Nsup|han}}
+*'''haqe''' [haqɛ] <span id="haqe"></span>
+:''adj.'' tired
+:'''haqat''' ''v.'' to be tired
+:{{Vsup|haqe}}
+*'''haqeqqe''' [haqɛqqɛ] <span id="haqeqqe"></span>
+:''adj.'' exhausted
+*'''haqolat''' [haqɔlat] <span id="haqolat"></span>
+:''v.'' to grow tired
+:{{Vsup|haqo}}
+*'''has''' [hasa] <span id="has"></span>
+:''adj.'' sharp
+*'''hash''' [haʃ] <span id="hash"></span>
+:''conj.'' if...then; when...then
+:''part.'' do (question word)
+:{{Quote|Zhey jalan atthirari anni. Hash azisi?|Moon of my live. Are you hurt?}}
+:{{Quote|Ishish chare acharoe hash me nem ejervae nharesoon.|Maybe the ear will understand if it is removed from the head.}}
+*'''hash yer ray nesi?''' [haʃ jeɾ raj nesi] <span id="hash yer ray nesi?"></span>
+:''phrase'' Did you know?
+*'''hatif''' [hatif] <span id="hatif"></span>
+:''n.'' face
+:''prep.&rarr;gen.'' in front of, before
+:''prep.&rarr;all.'' to front of, to before
+:''prep.&rarr;abl.'' from front of, from before
+*'''havazh''' [havaʒ] <span id="havazh"></span>
+:''n.'' sea
+*'''Havazh Dothraki''' [havaʒ doθɾaki] <span id="Havazh Dothraki"></span>
+:''prop n.'' Dothraki Sea
+*'''Havazzhifi Kazga''' [havaʒʒifi kazga] <span id="Havazzhifi Kazga"></span>
+:''prop n.'' Black Salt Sea
+*'''havolat''' [havolat] <span id="havolat"></span>
+:''v.'' to move weakly
+*'''havon''' [havon] <span id="havon"></span> (from Valyrian {{HVlex|havon}})
+:''n.'' bread
+*'''havzi''' [havzi] <span id="havzi"></span>
+:''n.'' cat
+*'''havziven''' [havziven] <span id="havziven"></span>
+:''adj.'' lazy
+*'''haz''' [haz] <span id="haz"></span>
+:''det.'' that (when speaking of an object present and directly indicated)
+:''pn.'' that (when speaking of an animate object present and directly indicated)
+:{{Nsup|haz}}
+:'''hazi''' ''pn.'' that (when speaking of an inanimate object present and directly indicated)
+:{{Nsup|hazies}}
+:{{Quote|Ammeni haz jolin!|Empty that pot.}}
+*'''hazze''' [hazze] <span id="hazze"></span>
+:''adv.'' there
+*'''heffof''' [heffof] <span id="heffof"></span>
+:''ni.'' jug
+*'''hem''' [hem] <span id="hem"></span>
+:''ni.'' fur
+*'''heme''' [hem] <span id="heme"></span>
+:''adj.'' furry
+:'''hemelat''' ''v.'' to have fur
+:{{Vsup|heme}}
+*'''hemikh''' [hemix] <span id="hemikh"></span>
+:''ni.'' pelt
+*'''hesk''' [hesk] <span id="hesk"></span>
+:''adj.'' southern
+*'''heske''' [heske] <span id="heske"></span>
+:''ni.'' south
+:{{Nsup|hesk}}
+*'''heth''' [heθ] <span id="heth"></span>
+:''ni.'' rim, lips (of a person)
+*'''hethke''' [heθke] <span id="hethke"></span>
+:''adj.'' tight
+:''adj.'' ready, prepared
+:'''hethkat''' ''v.'' tight
+:''v.'' ready, prepared
+:{{Vsup|hethke}}
+*'''hezhah''' [heʒah] <span id="hezhah"></span>
+:''adv.'' far
+*'''hezhahat''' [heʒahat] <span id="hezhahat"></span>
+:''v.'' to make distance, to travel, "to navigate"
+*'''hilelat''' [hilelat] <span id="hilelat"></span>
+:''vtr.''' to dig
+:''vtr.''' to have sex, "to hit"
+:{{Vsup|hile}}
+*'''himat''' [himat] <span id="himat"></span>
+:''vin.'' to clench
+:{{Vsup|him}}
+*'''himo''' [himo] <span id="himo"></span>
+:''ni.'' fist, clenched thing
+*'''Hiri!''' [hiɾi] <span id="hiri"></span>
+:''intj.'' Watch! (shortening of '''[[Vocabulary#vitihirat|vitihiras]]'''; used to command animals)
+*'''hlaka''' [hlaka] <span id="hlaka"></span>
+:''ni.'' glove
+:{{Nsup|hlak}}
+*'''hlizif''' [hlizif] <span id="hlizif"></span>
+:''na.'' bear
+*'''hlizifikh''' [hlizifix] <span id="hlizifikh"></span>
+:''ni.'' wild powerful sword strike
+*'''hlofa''' [hlofa] <span id="hlofa"></span>
+:''ni.'' wrist, ankle
+*'''holat''' [holat] <span id="holat"></span>
+:''v.'' to blow
+*'''hosh''' [hoʃ] <span id="hosh"></span>
+:''intj.'' giddyup
+*'''hoska''' [hoska] <span id="hoska"></span>
+:''n.'' animal mouth
+*'''hoshor''' [hoʃor] <span id="hoshor"></span>
+:''adj.'' golden
+*'''hoyalat''' [hojalat] <span id="hoyalat"></span>
+:''v.'' to sing
+:{{Vsup|hoyal}}
+*'''hoyali''' [hojali] <span id="hoyali"></span>
+:''ni.'' song
+:{{Nsup|hoyale}}
+*'''Hoyali Jeshi ma Vorsasi''' [hojali d͡ʒeʃi ma voɾsasi] <span id="Hoyali Jeshi ma Vorsasi"></span>
+:''prop. n.'' A Song of Ice and Fire
+*'''hrakkar''' [hɾakkar] <span id="hrakkar"></span>
+:''na.'' white lion
+*'''hrakkarikh''' [hɾakkarix] <span id="hrakkarikh"></span>
+:''ni.'' powerful, quick and accurate sword strike
+*'''hranna''' [hɾanna] <span id="hranna"></span>
+:''ni.'' a type of grass
+:''ni.'' any grass-like ground cover
+*'''hrazef''' [hɾazef] <span id="hrazef"></span>
+:''ni.'' horse
+*'''hrazefeser''' [hɾazefeser] <span id="hrazefeser"></span>
+:''na.'' herd of wild horses, "traffic"
+
+=== I ===
+
+*'''iddelat''' [iddelat] <span id="iddelat"></span>
+:''vtr.'' to welcome, to make someone drink
+:{{Vsup|idde}}
+*'''idiro''' [idiro] <span id="idiro"></span>
+:''na.'' owl
+*'''idirolat''' [idirolat] <span id="idirolat"></span>
+:''v.'' to suddenly turn completely around (as if by surprise), "to make a U-turn"
+:{{Vsup|idiro}}
+*'''ido''' [ido] <span id="ido"></span>
+:''adj.'' wooden, fake
+*'''idrik''' [idɾik] <span id="idrik"></span>
+:''na.'' leader of the hunt
+:''na.'' host
+*'''idrilat''' [idrilat] <span id="idrilat"></span>
+:''vtr.'' to guide
+:{{Vsup|idri}}
+*'''ifak''' [ifak] <span id="ifak"></span>
+:''na.'' foreigner
+*'''ifat''' [ifat] <span id="ifat"></span>
+:''vin.'' to walk
+:''vtr.&rarr;gen'' to walk beside
+:{{Vsup|if}}
+*'''ifeqevron''' [ifeqɛvron] <span id="ifeqevron"></span>
+:''n.'' species of forrest spiders
+*'''iffat''' [iffat] <span id="iffat"></span>
+:''vtr.'' to make someone walk
+:{{Vsup|iffe}}
+*'''iffi''' [iffi] <span id="iffi"></span>
+:''n.'' victory
+*'''igge''' [igge] <span id="igge"></span>
+:''n.'' bucket
+*'''ijelat''' [id͡ʒelat] <span id="ijelat"></span>
+:''v.'' to swallow, to practice woman-on-top sex
+:{{Vsup|ije}}
+*'''ikh''' [ix] <span id="ikh"></span>
+:''ni.'' ashes
+*'''ildat''' [ildat] <span id="ildat"></span>
+:''v.'' to strike
+:{{Vsup|ild}}
+*'''ildo''' [ildo] <span id="ildo"></span>
+:''ni.'' sword strike
+:{{Nsup|ild}}
+*'''ilek''' [ilek] <span id="ilek"></span>
+:''n.'' skin
+*'''imesh''' [imeʃ] <span id="imesh"></span>
+:''adj.'' young
+*'''imo''' [imo] <span id="imo"></span>
+:''ni.'' belt
+:{{Nsup|ime}}
+*'''inavva''' [inavva] <span id="inavva"></span>
+:''n.'' sister
+*'''indelat''' [indelat] <span id="indelat"></span>
+:''v.'' to drink
+:{{Vsup|inde}}
+*'''inte''' [inte] <span id="inte"></span>
+:''ni.'' beetle
+:{{Nsup|int}}
+*'''irge''' [iɾge] <span id="irge"></span>
+:''n.'' back
+:''prep.&rarr;gen'' after
+:''prep.&rarr;abl'' from behind
+:''prep.&rarr;all'' to behind
+*'''irra''' [ira] <span id="irra"></span>
+:''n.'' trout
+*'''irvosa''' [iɾvosa] <span id="irvosa"></span>
+:''ni.'' a distance equal to approximately a quarter of a mile.
+*'''irvosat''' [iɾvosat] <span id="irvosat"></span>
+:''v.'' to trot
+:{{Vsup|irvos}}
+*'''ish''' [iʃ] <span id="ish"></span>
+:''v. aux.'' might
+*'''ishish''' [iʃiʃ] <span id="ishish"></span>
+:''adv.'' maybe
+:{{Quote|Ishish chare acharoe hash me nem ejervae nharesoon.|Maybe the ear will understand if it is removed from the head.}}
+*'''iste''' [iste] <span id="iste"></span>
+:''adj.'' well proven, well tested
+*'''ita''' [ita] <span id="ita"></span>
+:''adj.'' suitably warm
+*'''ithkoil''' [iθkoil] <span id="ithkoil"></span>
+:''adj.'' brittle
+*'''ittelat''' [ittelat] <span id="ittelat"></span>
+:''vtr.'' to make something well proven, to test in action
+:{{Vsup|itte}}
+*'''ivezh''' [iveʒ] <span id="ivezh"></span>
+:''adj.'' wild
+*'''ivezho''' [iveʒo] <span id="ivezho"></span>
+:''n.'' beast
+*'''ivezhofolat''' [iveʒolat] <span id="ivezhofolat"></span>
+:''vin.'' to grow fierce
+:{{Vsup|ivezho}}
+*'''ivisat''' [ivisat] <span id="ivisat"></span>
+:''vin.'' to melt
+*'''ivvisat''' [ivvisat] <span id="ivvisat"></span>
+:''v.'' to melt something
+*'''iz''' [iz] <span id="iz"></span>
+:''n.'' poison
+*'''izat''' [izat] <span id="izat"></span>
+:''vin.'' to be poisonous
+:''vin.'' to be venomous
+:{{Vsup|izze}}
+*'''izven''' [izven] <span id="izven"></span>
+:''adj.'' forbidden
+*'''izzat''' [izzat] <span id="izzat"></span>
+:''vtr.'' to poison
+:{{Vsup|izze}}
+
+=== J ===
+
+*'''jadat''' [d͡ʒadat] <span id="jadat"></span>
+:''v.'' to come
+:{{Vsup|jad}}
+*'''jadilat''' [d͡ʒadilat] <span id="jadilat"></span>
+:''vtr.'' to approach, to come up to
+:{{Vsup|jadi}}
+*'''jadolat''' [d͡ʒadolat] <span id="jadolat"></span>
+:''v.'' to arrive
+:{{Vsup|jado}}
+*'''jadro''' [d͡ʒadɾo] <span id="jadro"></span>
+:''ni.'' vulture
+:{{Nsup|jadre}}
+*'''jahak''' [d͡ʒahak] <span id="jahak"></span>
+:''na.'' Dothraki hair-braid, lion’s mane, hairstyle 
+*'''jahakmen''' [d͡ʒahakmen] <span id="jahakmen"></span>
+:''adj.'' braidless
+*'''jalan''' [d͡ʒalan] <span id="jalan"></span>
+:''na.'' moon
+*'''jalan qoyi''' [d͡ʒalan qɔji] <span id="jalan qoyi"></span>
+:''n.'' harvest moon
+*'''jalanqoyi''' [d͡ʒalanqɔji] <span id="jalanqoyi"></span>
+:''ni.'' total lunar eclipse
+:{{Nsup|jalanqoy}}
+*'''janha''' [d͡ʒanha] <span id="janha"></span>
+:''ni.'' blanket
+:{{Nsup|janhe}}
+*'''janise''' [d͡ʒanise] <span id="janise"></span>
+:''na.'' niece
+*'''jano''' [d͡ʒano] <span id="jano"></span>
+:''ni.'' dog
+:{{Nsup|jan}}
+*'''jaqqa''' [d͡ʒaqqɑ] <span id="jaqqa"></span>
+:''n.'' [[Idioms_and_Phrases#Specific_uses_for_words|"executioner" , person responsible for someones death]]
+*'''jaqqa rhan''' [d͡ʒaqqɑ rhan] <span id="jaqqa rhan"></span>
+:''n.'' mercy men (not literal translation) 
+*'''jasat''' [d͡ʒasat] <span id="jasat"></span>
+:''v.'' to laugh 
+:{{Vsup|jes}}
+*'''javrath''' [d͡ʒavɾaθ] <span id="javrath"></span>
+:''n.'' reins
+*'''javrathat''' [d͡ʒavɾaθat] <span id="javrathat"></span>
+:''vtr.'' to rein
+:{{Vsup|javrath}}
+*'''jazat''' [d͡ʒazat] <span id="jazat"></span>
+:''v.'' to block
+:{{Vsup|jaz}}
+*'''jazo''' [d͡ʒazo] <span id="jazo"></span>
+:''ni.'' block, an instance of blocking
+*'''jedda''' [d͡ʒedda] <span id="jedda"></span>
+:''ni.'' pony
+:{{Nsup|jed}}
+*'''jekhtat''' [d͡ʒextat] <span id="jekhtat"></span>
+:''vin.'' to bounce, to ricochet
+:''vtr.→abl.'' to bounce off of
+*'''jela''' [d͡ʒela] <span id="jela"></span>
+:''ni.'' lemon
+:{{Nsup|jel}}
+*'''jelaven''' [d͡ʒelaven] <span id="jelaven"></span>
+:''adj.'' sour
+*'''jelli''' [d͡ʒelli] <span id="jelli"></span>
+:''ni.'' cheese
+:{{Nsup|jel}}
+*'''jerat''' [d͡ʒeɾat] <span id="jerat"></span>
+:''v.'' to trade
+:{{Vsup|jer}}
+:{{Quote|Me zala rek meme nem jer ki mae.|He wants that which was traded to him.}}
+*'''jerakasar''' [d͡ʒeɾakasar] <span id="jerakasar"></span>
+:''na.'' trader's guild, "company"
+*'''jerriya''' [d͡ʒerija] <span id="jerriya"></span>
+:''ni.'' a discussion
+*'''jervat''' [d͡ʒeɾvat] <span id="jervat"></span>
+:''v.'' to imprison 
+*'''jesat''' [d͡ʒesat] <span id="jesat"></span>
+:''v.'' to pull
+*'''jeser''' [d͡ʒeser] <span id="jeser"></span>
+:''n.'' market
+*'''Jeser Jim''' [d͡ʒeser d͡ʒim] <span id="Jeser Jim"></span>
+:''prop. n.'' Western Market
+*'''Jeser Tith''' [d͡ʒeser tiθ] <span id="Jeser Tith"></span>
+:''prop. n.'' Eastern Market
+*'''jesh''' [d͡ʒeʃ] <span id="jesh"></span>
+:''ni.'' ice
+*'''jesho''' [d͡ʒeʃo] <span id="jesho"></span>
+:''adj.'' frozen
+*'''jesholat''' [d͡ʒeʃolat] <span id="jesholat"></span>
+:''v.'' freeze
+:{{Vsup|jesho}}
+*'''jeshoy''' [d͡ʒeʃoj] <span id="jeshoy"></span>
+:''adj.'' freezing
+*'''jeshven''' [d͡ʒeʃven] <span id="jeshven"></span>
+:''adj.'' icy
+*'''jezat''' [d͡ʒezat] <span id="jezat"></span>
+:''v.'' to block (a strike)
+*'''jif''' [d͡ʒif] <span id="jif"></span>
+:''v. aux.'' should
+*'''jil''' [d͡ʒil] <span id="jil"></span>
+:''adj.'' right, rightful
+*'''jilat''' [d͡ʒilat] <span id="jilat"></span>
+:''v.'' to be right, to be correct
+:{{Vsup|jil}}
+*'''jim''' [d͡ʒim] <span id="jim"></span>
+:''adj.'' western
+*'''jimma''' [d͡ʒimma] <span id="jimma"></span>
+:''ni.'' west
+:{{Nsup|jim}}
+:{{Quote|Anha vidrik khalasares anni jim, finaan nakhoe rhaesheser.|I will take my khalasar west to where the world ends.}}
+*'''jin''' [d͡ʒin] <span id="jin"></span>
+:''na.'' female goat
+:''det.'' this
+:''pn.'' this (when speaking of an animate object)
+:{{Nsup|jin}}
+:'''jini''' ''pn.'' this (when speaking of an inanimate object)
+:{{Nsup|jinies}}
+:{{Quote|Anha, zhey Drogo, atak jin.|I, Drogo, will do this.}}
+:{{Quote|Anha asshilak jin azh shafkea haji rekoon et shafka.|I make this gift to you for what you did.}}
+:{{Quote|Mori allayafi mae, jin alegra.|She likes ducks.}}
+*'''jinne''' [d͡ʒinne] <span id="jinne"></span>
+:''adv.'' here
+:{{Quote|Vo mawizzi vekho jinne.|There are no rabbits.}}
+*'''jith''' [d͡ʒiθ] <span id="jith"></span>
+:''na.'' fox
+*'''jiz''' [d͡ʒiz] <span id="jiz"></span>
+:''na.'' chicken
+*'''jolinat''' [d͡ʒolinat] <span id="jolinat"></span>
+:''v.'' to cook
+:{{Vsup|jolin}}
+*'''jolinikh''' [d͡ʒolinix] <span id="jolinikh"></span>
+:''ni.'' prepared food
+*'''jolino''' [d͡ʒolino] <span id="jolino"></span>
+:''ni.'' cooking pot 
+:{{Nsup|jolin}}
+*'''joma''' [d͡ʒoma] <span id="joma"></span>
+:''ni.'' salmon
+*'''jon''' [d͡ʒon] <span id="jon"></span>
+:''adj.'' closed, shut, sealed
+*'''joro''' [d͡ʒoɾo] <span id="joro"></span>
+:''ni.'' idol, icon
+*'''jorok''' [d͡ʒoɾok] <span id="jorok"></span>
+:''ni./na.'' corn
+
+=== K ===
+
+*'''k'''' [k]
+:''prep.'' (elided version, see '''[[Vocabulary#ki|ki]]''')
+*'''kadat''' [kadat] <span id="kadat"></span>
+:''v.'' to capture, to wrangle, to corral
+*'''kade''' [kade] <span id="kade"></span>
+:''ni.'' net
+*'''kadikh''' [kadix] <span id="kadikh"></span>
+:''ni.'' untamed captured animal
+*'''kane''' [kane] <span id="kane"></span>
+:''na.'' lark
+*'''kathjilari''' [kaθd͡ʒilaɾi] <span id="kathjilari"></span>
+:''adj.'' right, rightfully
+*'''kafat''' [kafat] <span id="kafat"></span>
+:''v.'' to smash
+:{{Vsup|kaf}}
+*'''kafe''' [kafe] <span id="kafe"></span>
+:''n.'' pestle
+*'''kaffat''' [kaffat] <span id="kaffat"></span>
+:''v.'' to crush
+:{{Vsup|kaffe}}
+*'''karlina''' [kaɾlina] <span id="karlina"></span>
+:''ni.'' a distance of about mile, galloped in one '''leshitof'''
+:{{Nsup|karlin}}
+*'''karlina Valeri''' [kaɾlina Valeri] <span id="karlina Valeri"></span>
+:''ni.'' "kilometer (measure)"
+*'''karlinat''' [kaɾlinat] <span id="karlinat"></span>
+:''v.'' to gallop
+:''vtr.&rarr;gen.'' to gallop beside
+:{{Vsup|karlin}}
+*'''karlinqoyi''' [kaɾlinqɔji] <span id="karlinqoyi"></span>
+:''ni.'' gallop fast enough to kill a horse, if prolonged
+:{{Nsup|karlinqoy}}
+*'''kartat''' [kaɾtat] <span id="kartat"></span>
+:''vtr.'' to pull with both hands
+:{{Vsup|kart}}
+*'''kartolat''' [kaɾtolat] <span id="kartolat"></span>
+:''vtr.'' to pull with other means than with arms (can be used of inanimate subjects)
+:{{Vsup|karto}}
+*'''kash''' [kaʃ] <span id="kash"></span>
+:''conj. adv.'' while, when, during, until, then
+:{{Quote|Kash qoy qoyi thira disse.|Only while blood of my blood lives.}}
+*'''kashat''' [kaʃat] <span id="kashat"></span>
+:''v.'' to last
+:{{Vsup|kash}}
+*'''kashi''' [kaʃi] <span id="kashi"></span>
+:''ni.'' time
+*'''kathqoyi''' [kaθqɔji] <span id="kathqoyi"></span>
+:''ni.'' weighted net
+*'''kazga''' [kazga] <span id="kazga"></span>
+:''adj.'' black
+*'''kelen''' [kelen] <span id="kelen"></span>
+:''adj.'' patterned, orderly
+*'''kem''' [kem] <span id="kem"></span>
+:''adj.'' conjoined, married
+*'''kemak''' [kemak] <span id="kemak"></span>
+:''na.'' spouse
+*'''kemat''' [kemat] <span id="kemat"></span>
+:''vtr.'' to conjoin, to marry (someone to someone else, the latter is preceded by /ma/)
+:{{Vsup|kem}}
+*'''kemik''' [kemik] <span id="kemik"></span>
+:''na.'' ally
+*'''kemis''' [kemis] <span id="kemis"></span>
+:''n.'' dried fig
+*'''kemisolat''' [kemisolat] <span id="kemisolat"></span>
+:''vtr.'' to ally with someone (use the preposition ma)
+:{{Vsup|kemiso}}
+*'''kemolat''' [kemolat] <span id="kemolat"></span>
+:''vtr.'' to marry someone (use the preposition ma)
+:{{Vsup|kemo}}
+*'''kendra''' [kendɾa] <span id="kendra"></span>
+:''ni.'' opal
+:{{Nsup|kendre}}
+*'''kesselat''' [kesselat] <span id="kesselat"></span>
+:''v.'' to carry
+:{{Vsup|kesse}}
+*'''kha''' [xa] <span id="kha"></span>
+:''na.'' a personal bodyguard
+*'''khado''' [xado] <span id="khado"></span>
+:''na.'' body
+*'''khadokh''' [xadox] <span id="khadokh"></span>
+:''ni.'' corpse
+*'''khal''' [xal] <span id="khal"></span>
+:''na.'' title used for the leader of a Dothraki horde, king
+*'''khalakka''' [xalakka] <span id="khalakka"></span>
+:''na.'' prince, son of a khal
+*'''khalakki''' [xalakki] <span id="khalakki"></span>
+:''na.'' princess, daughter of a khal
+*'''khalasar''' [xalasar] <span id="khalasar"></span>
+:''na.'' a horde loyal to a single khal
+*'''khaleesi''' [xaleesi] <span id="khaleesi"></span>
+:''na.'' queen, wife of a khal
+*'''khaleessiya''' [xaleessija] <span id="khaleesaiya"></span>
+:''ni.'' handmaid
+*'''khaor''' [xaor] <span id="khaor"></span>
+:''ni.'' waist
+*'''khas''' short for '''khasar'''
+*'''khasar''' [xasar] <span id="khasar"></span>
+:''na.'' small group of protectors, bloodriders, generals
+*'''khefat''' [xefat] <span id="khefat"></span>
+:''v.'' to sneeze
+*'''kher''' [xer] <span id="kher"></span>
+:''ni.'' flesh, skin of an animal
+*'''kherikh''' [xeɾix] <span id="kherikh"></span>
+:''ni.'' leather
+*'''khewo''' [xewo] <span id="khewo"></span>
+:''ni.'' worm
+:{{Nsup|khewe}}
+*'''khezhat''' [xeʒat] <span id="khezhat"></span>
+:''v.'' to be sad
+:{{Vsup|khezh}}
+*'''khiro''' [xiɾo] <span id="khiro"></span>
+:''ni.'' flag
+:{{Nsup|khir}}
+*'''khizra''' [xizɾa] <span id="khizra"></span>
+:''ni.'' marsh
+:{{Nsup|khizre}}
+*'''khogar''' [xogar] <span id="khogar"></span>
+:''ni.'' word for one's apparel, clothes
+:{{Quote|Anha vaddrivak mahrazhis fini ondee khogar shiqethi.|I will kill the men in iron suits}}
+*'''khogarat''' [xogarat] <span id="khogarat"></span>
+:''v.'' to dress
+*'''khogari''' [xogaɾi] <span id="khogari"></span>
+:''ni.'' box, trunk, chest, cask
+:{{Nsup|khogare}}
+*'''ken''' [ken] <span id="ken"></span>
+:''num.'' hundred
+*'''kenak''' [kenak] <span id="kenak"></span>
+:''num.'' hundredth
+*'''ki''' [ki] <span id="ki"></span>
+:''prep.&rarr;gen.'' by, because of, of
+:''prep.'' thus, that (when preceding quoted speech)
+*'''kifindirgi''' [kifindiɾgi] <span id="kifindirgi"></span>
+:''adv.'' why
+*'''kifinosi''' [kifinosi] <span id="kifinosi"></span>
+:''adv.'' how
+:{{Quote|Kifinosi yer nesi?|How do you know?}}
+*'''kirekhdirgi''' [kiɾexdiɾgi] <span id="kirekhdirgi"></span>
+:''conj.'' why
+*'''kirekosi''' [kiɾekosi] <span id="kirekosi"></span>
+:''conj.'' how
+*'''kijinosi''' [kid͡ʒinosi] <span id="kijinosi"></span>
+:''adv.'' thus, in this way
+*'''kim''' [kim] <span id="kim"></span>
+:''na.'' ancestor
+:''adj.'' original
+*'''kimikh''' [kimix] <span id="kimix"></span>
+:''ni.'' date (fruit of a date palm)
+*'''kimisir''' [kimisir] <span id="kimisir"></span>
+:''na.'' ancestry
+*'''kis''' [kis] <span id="kis"></span>
+:''v. aux.'' to try to
+*'''kisha''' [kiʃa] <span id="kisha"></span>
+:''pn.'' we
+*'''kishi''' [kiʃee] <span id="kishi"></span>
+:''pn.'' our
+*'''ko''' [ko] <span id="ko"></span>
+:''na.'' bodyguard
+*'''koala''' [koala] <span id="koala"></span>
+:''ni.'' medicine
+*'''koalak''' [koalak] <span id="koalak"></span>
+:''na.'' healer (chiefly male healer)
+*'''koalakeesi''' [koalakeesi] <span id="koalakeesi"></span>
+:''na.'' female healer
+*'''koalakhtihan''' [koalaxtihan] <span id="koalakhtihan"></span>
+:''ni.'' eye-healer
+*'''koalat''' [koalat] <span id="koalat"></span>
+:''vin.'' to be of help
+:{{Vsup|koal}}
+*'''koge''' [koge] <span id="koge"></span>
+:''ni.'' nick, blemish, imperfection, flaw
+:{{Nsup|koge}}
+*'''kogmen''' [kogmen] <span id="kogmen"></span>
+:''adj.'' flawless
+*'''kohol''' [kohol] <span id="kohol"></span>
+:''ni.'' bow
+*'''kolat''' [kolat] <span id="kolat"></span>
+:''v.'' to cure, to heal
+*'''kolver''' [kolver] <span id="kolver"></span>
+:''na.'' eagle
+*'''kolverikh''' [kolverix] <span id="kolverikh"></span>
+:''ni.'' straight sword thrust
+*'''korikh''' [koɾix] <span id="korikh"></span>
+:''ni.'' stick
+*'''kovarat''' [kovarat] <span id="kovarat"></span>
+:''v.'' to stand
+:{{Vsup|kovar}}
+*'''krazaaj''' [kɾazaad͡ʒ] <span id="krazaaj"></span>
+:''ni.'' mountain
+*'''krista''' [kɾista] <span id="krista"></span>
+:''na.'' female relative
+*'''kristasof''' [kɾistasof] <span id="kristasof"></span>
+:''ni.'' grandmother
+
+=== L ===
+
+*'''lain''' [lain] <span id="lain"></span>
+:''adj.'' beautiful (used for inanimate nouns)
+:'''lainat''' ''vin.'' to be beautiful (used for inanimate nouns)
+:{{Vsup|lain}}
+*'''lajak''' [lad͡ʒak] <span id="lajak"></span>
+:''na.'' fighter, warrior
+*'''lajasar''' [lad͡ʒasar] <span id="lajasar"></span>
+:''na.'' army
+*'''lajat''' [lad͡ʒat] <span id="lajat"></span>
+:''v.'' to fight
+:{{Vsup|laj}}
+*'''lajilat''' [lad͡ʒilat] <span id="lajilat"></span>
+:''v.'' to spar, to train
+:''v.'' to play, to compete (a game that is played can be introuced with '''ki''')
+:{{Vsup|laji}}
+*'''lakkhat''' [laxxat] <span id="lakkhat"></span>
+:''v.'' to chew
+:{{Vsup|lakkhe}}
+*'''lame''' [lame] <span id="lame"></span>
+:''n.'' mare
+*'''lamekh''' [lamex] <span id="lamekh"></span>
+:''ni.'' mare's milk (fermented or plain)
+*'''lamekh ohazho''' [lamex ohaʒo] <span id="lamekh ohazo"></span>
+:''ni.'' fermented mare's milk
+*'''lanat''' [lanat] <span id="lanat"></span>
+:''v.'' to run
+:''v.&rarr;gen.'' to run beside
+:{{Vsup|lan}}
+*'''lanlekhi''' [lanlexi] <span id="lanlekhi"></span>
+:''ni.'' eating spree for a special taste
+*'''lanqoyi''' [lanqoyi] <span id="lanqoyi"></span>
+:''ni.'' killing spree
+*'''laqat''' [laqat] <span id="laqat"></span>
+:''v.'' to cry, to weep
+:{{Vsup|laqe}}
+*'''laqikh''' [laqix] <span id="laqikh"></span>
+:''ni.'' tear, tears
+*'''lavakh''' [lavax] <span id="lavakh"></span>
+:''adj.'' loud
+*'''lavakhat''' [lavaxat] <span id="lavakhat"></span>
+:''v.'' to be loud
+*'''laz''' [laz] <span id="laz"></span>
+:''v. aux.'' could (assigns past tense)
+:''v. aux.'' can (assigns present tense)
+:{{Quote|Vo hrazef laz yoma evethiz.|No horse can cross the poison water.}}
+*'''layafat''' [layafat] <span id="layafat"></span>
+:''vin.'' to be happy
+*'''lei''' [lei] <span id="lei"></span>
+:''na.'' ghost, adult whose body was not burned
+:{{Nsup|leyes}}
+:''adj.'' lost
+*'''lekh''' [lex] <span id="lekh"></span>
+:''na.'' language
+:''ni.'' tongue
+*'''lekh dothraki''' [lex doθɾaki] <span id="lekh dothraki"></span>
+:''np.'' Dothraki (language)
+:'''lekhaan''' enough
+*'''lekhi''' [lexi] <span id="lekhi"></span>
+:''ni.'' taste
+:{{Nsup|lekh}}
+:{{Quote|At lekhi ma shafka ahakee yal hakesoon anni.|One taste and you'll name your first child after me.}}
+*'''lekhilat''' [lexilat] <span id="lekhilat"></span>
+:''v.'' to taste
+:{{Vsup|lekhi}}
+*'''lekhmove''' [lexmove] <span id="lekhmove"></span>
+:ni. constructed language
+:{{Nsup|lekhmove}}
+*'''lenta''' [lenta] <span id="lenta"></span>
+:''n.'' neck, stem
+*'''leqse''' [leqse] <span id="leqse"></span>
+:''ni.'' rat
+*'''leshitat''' [leʃitat] <span id="leshitat"></span>
+:''v.'' to breathe
+:{{Vsup|leshit}}
+*'''leshitof''' [leʃitof] <span id="leshitof"></span>
+:''ni.'' time period of approximately two minutes
+*'''lir''' [lir] <span id="lir"></span>
+:''ni.'' tattoo
+*'''lirak''' [liɾak] <span id="lirak"></span>
+:''na.'' tattoo artist
+*'''lirat''' [liɾat] <span id="lirat"></span>
+:''vtr.'' to tattoo
+*'''lirikh''' [liɾix] <span id="lirikh"></span>
+:''ni.'' a picture or a symbol depicted in a tattoo
+*'''lirisir''' [liɾisir] <span id="lirisir"></span>
+:''ni.'' tattoos
+*'''lirisirazo''' [liɾisiɾazo] <span id="lirisirazo"></span>
+:''ni.'' bladed writing
+:{{Nsup|lirisiraz}}
+*'''liwalat''' [liwalat] <span id="liwalat"></span>
+:''v.'' to tie
+*'''lojat''' [lod͡ʒat] <span id="lojat"></span>
+:''vtr.'' to hit
+:''vtr.&rarr;all.'' to hit at
+:{{Vsup|loj}}
+*'''lommat''' [lommat] <span id="lommat"></span>
+:''v.'' to bathe
+:{{Vsup|lomme}}
+*'''loqam''' [loqɑm] <span id="loqam"></span>
+:''n.'' arrow
+*'''lorat''' [loɾat] <span id="lorat"></span>
+:''v.'' to wink
+*'''lorrat''' [lorat] <span id="lorrat"></span>
+:''v.'' to blink
+*'''loshak''' [loʃak] <span id="loshak"></span>
+:''na.'' guard
+*'''loshat''' [loʃat] <span id="loshat"></span>
+:''vtr.'' to carry (in a cart, sack etc.), to carry a child (in a womb), to contain
+*'''lostat''' [lostat] <span id="lostat"></span>
+:''v.'' to miss (fail to see/reqognize), to disappoint
+*'''lost''' [lost] <span id="lost"></span>
+:''adj.'' disappointed
+*'''loy''' [loj] <span id="loy"></span>
+:''ni.'' puddle
+:''det.&rarr;gen.'' some, few, any, a bit of
+:{{Quote|Ezas loy alegri h'anhaan.|Find some ducks for me.}}
+:{{Quote|Hash yer ray tih loy alegra zhey vikeesi?|Have you seen any ducks, woman?}}
+
+=== M ===
+
+*'''m'''' [m]
+:''prep.'' (elided version, see '''[[Vocabulary#ma|ma]]''')
+:''prefix'' (elided version of '''/me-/''', a complementizer used to introduce subordinate clauses)
+*'''m'ach''' [mat͡ʃ]
+:''intj.'' hi (a shortened version of '''m'athchomaroon''')
+*'''m'ath''' [maθ]
+:''intj.'' hi (a shortened version of '''m'athchomaroon''')
+*'''m'athchomaroon''' [maθt͡ʃomaɾoon]
+:''phrase'' "with respect" said in greeting
+*'''ma''' [ma] <span id="ma"></span>
+:''conj.'' and
+:''prep.&rarr;abl.'' with
+:{{Quote|Ma me nem ahakee ma Rhaego!|And he shall be called Rhaego!}}
+:{{Quote|At lekhi ma shafka ahakee yal hakesoon anni.|One taste and you'll name your first child after me.}}
+*'''madat''' [madat] <span id="madat"></span>
+:''v.'' to sew
+*'''mae''' [mae] <span id="mae"></span>
+:'' pn.'' him, her, it
+:'' pn.'' his, her, hers, its
+*'''maegi''' [maegi] <span id="maegi"></span>
+:''ni.'' wise, sorceress, witch
+*'''mafo''' [mafo] <span id="mafo"></span>
+:''na.'' young goat, kid
+*'''mahrazh''' [mahɾaʒ] <span id="mahrazh"></span>
+:''na.'' man
+:{{Quote|Anha vazhak maan firikhnharen hoshora ma mahrazhi aqovi affin mori atihi mae.|I will give to him a golden crown and men will tremble when they will see it.}}
+*'''mahrazhkem''' [mahɾaʒkem] <span id="mahrazhkem"></span>
+:''ni.'' husband
+*'''mai''' [mai] <span id="mai"></span>
+:''na.'' mother
+:{{Nsup|mayes}}
+*'''majin''' [mad͡ʒin] <span id="majin"></span>
+:''conj.'' and then, then, so, and so, consequently
+:{{Quote|Majin jano. Anha ray tih san jani.|Dogs then. I have seen many dogs.}}
+*'''manin''' [manin] <span id="manin"></span>
+:''n.'' young male horse
+*'''manimven''' [manimven] <span id="manimven"></span>
+:''adj.'' anxious
+*'''marilat''' [maɾilat] <span id="marilat"></span>
+:''v.'' to construct
+:{{Vsup|mari}}
+*'''marriya''' [marija] <span id="marriya"></span>
+:''ni.'' tool
+*'''mas''' [mas] <span id="mas"></span>
+:''n.'' valuable
+*'''mattek''' [mattek] <span id="mattek"></span>
+:''na.'' limper [insult]
+*'''mattelat''' [mattelat] <span id="mattelat"></span>
+:''v.'' to limp
+:{{Vsup|matte}}
+*'''mawizzi''' [mawizzi] <span id="mawizzi"></span>
+:''ni.'' rabbit
+:{{Nsup|mawizze}}
+*'''me''' [me] <span id="me"></span>
+:''pn.'' he, she, it
+*'''me orzo!''' [me oɾzo] <span id="me orzo!"></span>
+:''phrase'' Its a trap!
+*'''mehas''' [mehas] <span id="mehas"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#ha|ha]]''') 
+*'''mek''' [mek] <span id="mek"></span>
+:''num.'' five
+*'''mekis''' [mekis] <span id="mekis"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#ki|ki]]''')
+*'''mel''' [mel] <span id="mel"></span>
+:''adj.'' bad, evil
+*'''melat''' [melat] <span id="melat"></span>
+:''vin.'' to be evil
+*'''melikh''' [melix] <span id="melikh"></span>
+:''ni.'' occurence
+*'''melikheya''' [melixeja] <span id="melikheya"></span>
+:''ni.'' the patient's half of the act
+:{{Nsup|melikhey}}
+*'''mem''' [mem] <span id="mem"></span>
+:''n.'' sound
+*'''memas''' [memas] <span id="memas"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#ma|ma]]''')
+*'''memat''' [memat] <span id="memat"></span>
+:''v.'' to make sound
+:{{Vsup|mem}}
+*'''memras''' [memɾas] <span id="memras"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#mra|mra]]''')
+*'''memziri''' [memziri] <span id="memziri"></span>
+:''ni.'' bird noise, ”tweet”
+*'''menat''' [menat] <span id="menat"></span>
+:''vin.'' to be empty
+:''vtr.&rarr;abl.'' to be empty of something
+:{{Vsup|men}}
+*'''meshes''' [meʃes] <span id="meshes"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#she|she]]''')
+*'''mesat''' [mesat] <span id="mesat"></span>
+:''vin.'' to be swollen
+*'''mesilat''' [mesilat] <span id="mesilat"></span>
+:''vin.'' to be pregnant
+:{{Vsup|mesi}}
+*'''mesina''' [mesina] <span id="mesina"></span>
+:''ni.'' soup
+*'''meso''' [meso] <span id="meso"></span>
+:''n.'' muscle
+*'''mesolat''' [mesolat] <span id="mesolat"></span>
+:''v.'' to swell
+:{{Vsup|meso}}
+*'''messhih''' [meʃʃih] <span id="messhih"></span>
+:''n.'' perlino horse
+*'''messhihven''' [meʃʃihven] <span id="messhihven"></span>
+:''adj.'' pale skinned
+*'''metorgas''' [metoɾgas] <span id="metorgas"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#torga|torga]]''')
+*'''mevis''' [mevis] <span id="mevis"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#vi|vi]]''')
+*'''mezahe''' [mezahe] <span id="mezahe"></span>
+:''adj.'' sexy
+*'''mezahhe''' [mezahhe] <span id="mezahhe"></span>
+:''adj.'' "hot", really sexy
+*'''mezhah''' [meʒah] <span id="mezhah"></span>
+:''n.'' whore
+*'''mhar''' [mhar] <span id="mhar"></span>
+:''adj.'' sore
+:{{Quote|Khal rhae mhar. Me ifa.|The sore-foot king. He walks.}}
+*'''mhari''' [mhaɾi] <span id="mhari"></span>
+:''ni.'' headache
+*'''mihe''' [mihe] <span id="mihe"></span>
+:''ni.'' thorn
+:{{Nsup|mih}}
+*'''mirges''' [miɾges] <span id="mirges"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#irge|irge]]''')
+*'''mithrat''' [miθɾat] <span id="mithrat"></span>
+:''v.'' to rest
+:{{Vsup|mithre}}
+*'''mithri''' [miθɾi] <span id="mithri"></span>
+:''n.'' rest
+*'''molethas''' [moleθas] <span id="molethas"></span>
+:''pn.'' (pronominal version of a preposition, see '''[[Vocabulary#oleth|oleth]]''')
+*'''mori''' [moɾi] <span id="mori"></span>
+:''pn.'' they
+*'''moska''' [moska] <span id="moska"></span>
+:''n.'' sack, pack
+*'''moskat''' [moskat] <span id="moskat"></span>
+:''v.'' to load, to pack
+:{{Vsup|moske}}
+*'''movek''' [movek] <span id="movek"></span>
+:''na.'' warlock, magician
+*'''movekkhat''' [movexxat] <span id="movekkhat"></span>
+:''vtr.'' to be intented for, to be for
+:{{Vsup|movekkhe}}
+*'''movelat''' [movelat] <span id="movelat"></span>
+:''v.'' to make by hand, to create
+:{{Vsup|mov}}
+*'''mr'''' [mɾ]
+:''prep.'' (elided version, see '''[[Vocabulary#mra|mra]]''')
+*'''mra''' [mɾa] <span id="mra"></span>
+:''prep.&rarr;nom.'' within
+:''prep.&rarr;all.'' into
+:''prep.&rarr;abl.'' out of
+:{{Quote|Khalakka dothrae mr'anha|A prince rides inside me.}}
+*'''mredi''' [mredi] <span id="mredi"></span>
+:''n.'' garlic
+
+=== N ===
+
+*'''najah''' [nad͡ʒah] <span id="najah"></span>
+:''adj.'' victorious
+:'''najahat''' ''vin.'' to be victorious
+:'''najahak''' ''na.'' winner
+*'''najahheya''' [nad͡ʒahheja] <span id="najahheya"></span>
+:''ni.'' victory (in battle)
+:{{Nsup|najahhey}}
+*'''nakho''' [naxo] <span id="nakho"></span>
+:''ni.'' stop, end
+:{{Nsup|nakh}}
+:{{Quote|K'asi assikhqoyisiri vezh adothrae nakhaan rhaesheseri.|According to the prophecy the stallion will ride to the ends of the world.}}
+*'''nakhat''' [naxat] <span id="nakhat"></span>
+:''v.'' to stop
+:{{Vsup|nakh}}
+:{{Quote|Sorfosor nakha she Havazzhifi Kazga.|The earth ends at The Black Salt Sea.}}
+*'''nakholat''' [naxolat] <span id="nakholat"></span>
+:''vin.'' to end
+:{{Vsup|nakho}}
+:{{Quote|Anha vidrik khalasares anni jim, finaan nakhoe rhaesheser.|I will take my khalasar west to where the world ends.}}
+*'''nakhok''' [naxok] <span id="nakhok"></span>
+:''adj.'' the last (functions the same way as [[Number system#Ordinal numbers|ordinal numbers]])
+*'''naqis''' [naqes] <span id="naqis"></span>
+:'''adj.''' small
+:'''naqisat''' ''vin.'' to be small
+:{{Vsup|naqis}}
+*'''navat''' [navat] <span id="navat"></span>
+:''v.'' to urinate
+*'''navik''' [navik] <span id="navik"></span>
+:''na.'' beginner
+*'''navilat''' [navilat] <span id="navilat"></span>
+:''v.'' to take a little pee
+:{{Vsup|navi}}
+*'''navvirzethay''' [navviɾzeθaj] <span id="navvirzethay"></span>
+:''adj.'' ashamed
+*'''nayat''' [najat] <span id="nayat"></span>
+:''ni.'' girl
+*'''negwin''' [negwin] <span id="negwin"></span>
+:''adj.'' stone
+*'''neak''' [neak]<span id="neak"></span>
+:''adj.'' long
+*'''nem''' [nem] <span id="nem"></span>
+:''v. aux.'' passive particle
+:{{Quote|Ma me nem ahakee ma Rhaego!|And he shall be called Rhaego!}}
+*'''nemo''' [nemo] <span id="nemo"></span>
+:''v. aux.'' reflexive particle
+*'''nerro''' [nero] <span id="nerro"></span>
+:''ni.'' foal
+:{{Nsup|ner}}
+*'''nesat''' [nesat] <span id="nesat"></span>
+:''v.'' to know (information)
+:{{Vsup|nes}}
+:{{Quote|Kifinosi yer nesi?|How do you know?}}
+*'''nesikh''' [nesix] <span id="nesikh"></span>
+:''ni.'' information
+*'''nesolat''' [nesolat] <span id="nesolat"></span>
+:''v.'' to learn
+:{{Vsup|neso}}
+*'''nevak''' [nevak] <span id="nevak"></span>
+:''na.'' guest
+*'''nevakh''' [nevax] <span id="nevakh"></span>
+:''ni.'' sitting-spot
+:{{Quote|Nevakhi vekha ha maan.|There is a place for you.}}
+*'''nevalat''' [nevalat] <span id="nevalat"></span>
+:''v.'' to sit
+:{{Vsup|neva}}
+:{{Quote|Maan anha vazhak jin ador shiqethi finaan neva ave maisi mae.|I will give him the iron chair that his mothers father sat upon.}}
+*'''nevasolat''' [nevasolat] <span id="nevasolat"></span>
+:''v.'' to sit down
+:{{Vsup|nevaso}}
+*'''nhare''' [nhaɾe] <span id="nhare"></span>
+:''na.'' head (of a human)
+*'''nhizo''' [nhizo] <span id="nhizo"></span>
+:''na.'' raven
+*'''nhomi''' [nhomi] <span id="nhomi"></span>
+:''na.'' female dog
+*'''nindi''' [nindi] <span id="nindi"></span>
+:''n.'' sausage
+*'''ninthqoyi''' [ninθqɔji] <span id="ninthqoyi"></span>
+:''ni.'' blood sausage
+:{{Nsup|ninthqoy}}
+*'''niqe''' [niqɛ] <span id="niqe"></span>
+:'' adj.'' rigid
+*'''niqikkheya''' [niqexxeja] <span id="niqikkheya"></span>
+:''ni.'' orgasm
+:{{Nsup|niqikkhey}}
+*'''nirat''' [niɾat] <span id="nirat"></span>
+:''vin.'' to be full
+:''vtr.&rarr;abl.'' to be full of something
+:{{Vsup|nir}}
+*'''nirrat''' [nirat] <span id="nirrat"></span>
+:''vtr.'' to fill
+:{{Vsup|nirre}}
+*'''nith''' [niθ] <span id="nith"></span>
+:''adj.'' painful
+*'''nithat''' [niθat] <span id="nithat"></span>
+:''vin.'' to feel pain
+:''vtr.&rarr;abl.'' to feel pain from a specific source
+:{{Vsup|nith}}
+*'''nithilat''' [niθilat] <span id="nithilat"></span>
+:''vin.'' to feel encouraged, to feel invigorated
+:{{Vsup|nithi}}
+*'''nithmen''' [niθmen] <span id="nithmen"></span>
+:''adj.'' painless
+*'''nivat''' [nivat] <span id="nivat"></span>
+:''v.'' to frown
+*'''niyanqoy''' [nijanqɔj] <span id="niyanqoy"></span>
+:''adv.'' together
+*'''nizhat''' [niʒat] <span id="nizhat"></span>
+:''vin.'' to be tough
+:{{Vsup|nizh}}
+*'''noah''' [noah] <span id="noah"></span>
+:''na.'' bull
+*'''nofilat''' [nofilat] <span id="nofilat"></span>
+:''v.'' to wipe
+*'''nokittat''' [nokittat] <span id="nokittat"></span>
+:''v.'' to trample
+:{{Vsup|nokitte}}
+*'''noreth''' [noɾeθ] <span id="noreth"></span>
+:''ni.'' hair
+*'''notat''' [notat] <span id="notat"></span>
+:''v.'' to turn
+:{{Vsup|not}}
+*'''nozho''' [noʒo] <span id="nozho"></span>
+:''n.'' chestnut horse
+*'''nozhoven''' [noʒoven] <span id="nozhoven"></span>
+:''adj.'' brown
+:''adj.'' brown skinned
+*'''nris''' [nɾis] <span id="nris"></span>
+:''adj.'' straight
+*'''nroj''' [nɾod͡ʒ] <span id="nroj"></span>
+:''adj.'' thick, complex
+:'''nrojat''' ''vin.'' to be thick, complex
+:{{Vsup|nroj}}
+
+=== O ===
+
+*'''oakah''' [oakah] <span id="oakah"></span>
+:''ni.'' a persons worth or ability, mettle, "soul"
+*'''ocha''' [ot͡ʃa] <span id="ocha"></span>
+:''n.'' dun horse
+*'''ochaven''' [ot͡ʃaven] <span id="ochaven"></span>
+:''adj.'' light skinned
+*'''odaya''' [odaja] <span id="odaya"></span>
+:''n.'' breast
+*'''oeta''' [oeta] <span id="oeta"></span>
+:''ni.'' yam
+:{{Nsup|oet}}
+*'''ogat''' [ogat] <span id="ogat"></span>
+:''vtr.'' to slaughter an animal
+:''vtr.'' to kill brutally, as if slaughtering an animal
+:{{Vsup|oge}}
+:{{Quote|Ogi loy mawizzi.|Kill some rabbits.}}
+*'''oggo''' [oggo] <span id="oggo"></span>
+:''na.'' head (of an animal)
+*'''ohara''' [ohar] <span id="ohara"></span>
+:''ni.'' daughter
+:{{Nsup|ohar}}
+*'''oharat''' [oharat] <span id="oharat"></span>
+:''v.'' to fall
+:{{Vsup|ohar}}
+*'''ohazh''' [ohaʒ] <span id="ohazh"></span>
+:''adj.'' heavy
+:'''ohazhat''' ''vin.'' to be heavy
+*'''ohazho''' [ohaʒo] <span id="ohazho"></span>
+:''adj.'' fermented
+:'''ohazholat''' ''v.'' to become heavy, to ferment
+*'''ohharat''' [ohharat] <span id="ohharat"></span>
+:''vtr.'' to make something fall, to tear down
+:{{Vsup|ohhar}}
+*'''oholat''' [oholat] <span id="oholat"></span>
+:''vin.'' to be still
+:{{Vsup|oho}}
+*'''oiro''' [oiro] <span id="oiro"></span>
+:''adj.'' fat
+*'''ojil''' [od͡ʒil] <span id="ojil"></span>
+:''adj.'' wrong, incorrect
+*'''ojilat''' [od͡ʒilat] <span id="ojilat"></span>
+:''v.'' to be wrong, to be incorrect
+:{{Vsup|ojil}}
+*'''okeo''' [okeo] <span id="okeo"></span>
+:''na.'' friend, trustee
+*'''okhat''' [oxat] <span id="okhat"></span>
+:''v.'' to ring
+:{{Vsup|okh}}
+*'''okkat''' [okkat] <span id="okkat"></span>
+:''vtr.'' to choose
+:{{Vsup|okke}}
+:{{Quote|Okki zhille hrazef fin allayafa shafka drogikhoon anni.|Choose any horse you wish from my herd.}}
+*'''okre''' [okre] <span id="okre"></span>
+:''n.'' tent
+*'''okrenegwin''' [okrenegwin] <span id="okrenegwin"></span>
+:''ni.'' stone house
+*'''oldat''' [oldat] <span id="oldat"></span>
+:''v.'' to rub
+*'''oleth''' [oleθ] <span id="oleth"></span>
+:''prep.&rarr;gen.'' over, above
+*'''olta''' [olta] <span id="olta"></span>
+:''ni.'' hill
+:{{Nsup|olt}}
+*'''oma''' [oma] <span id="oma"></span>
+:''prep.&rarr;abl.'' without
+*'''ondelat''' [ondelat] <span id="ondelat"></span>
+:''vtr.'' to wear
+:{{Vsup|onde}}
+:{{Quote|Dothraki vo ondeo shori tawakof.|Dothraki don't wear steel dresses.}}
+*'''onqotha''' [onqɔθa] <span id="onqotha"></span>
+:''ni.'' a distance of approximately one eighth mile.
+*'''onqothat''' [onqɔθat] <span id="onqothat"></span>
+:''v.'' to walk (horse gait)
+*'''oqet''' [oqɛt] <span id="oqet"></span>
+:''ni.'' sheep
+*'''oqo''' [oqɔ] <span id="oqo"></span>
+:''ni.'' beat, rhythmic noise
+*'''oqolat''' [oqɔlat] <span id="oqolat"></span>
+:''v.'' to beat, to sound rythmically
+:{{Vsup|oqo}}
+*'''oqooqo''' [oqɔoqɔ] <span id="oqolat"></span>
+:''ni.'' heartbeat
+*'''ori''' [oɾi] <span id="ori"></span>
+:''num.'' eight
+*'''orvik''' [oɾvik] <span id="orvik"></span>
+:''n.'' whip
+*'''orzi''' [oɾzi] <span id="orzi"></span>
+:''ni.'' shoe
+*'''orzo''' [oɾzo] <span id="orzo"></span>
+:''ni.'' trap
+*'''os''' [os] <span id="os"></span>
+:''ni.'' path, road
+:{{Quote|Ave anni ezzo anhaan os lajataan.|My father taught me how to fight.}}
+*'''osfir''' [osfir] <span id="osfir"></span>
+:''ni.'' round road, "roundabout"
+*'''oshat''' [oʃat] <span id="oshat"></span>
+:''v.'' to suck
+*'''oskikh''' [oskix] <span id="oskikh"></span>
+:''adv.'' yesterday
+*'''osoleth''' [osoleθ] <span id="osoleth"></span>
+:''ni.'' bridge
+*'''ostat''' [ostat] <span id="ostat"></span>
+:''vtr.'' to bite
+:{{Vsup|ost}}
+*'''osto''' [osto] <span id="osto"></span>
+:''n.'' bite
+*'''ovah''' [ovah] <span id="ovah"></span>
+:''adj.'' wide, fat
+*'''ovethat''' [oveθat] <span id="ovethat"></span>
+:''v.'' to fly
+:{{Vsup|oveth}}
+*'''ovrakh''' [ovɾax] <span id="ovrakh"></span>
+:''ni.'' opening, opportunity, vulnerability
+*'''ovray''' [ovɾaj] <span id="ovray"></span>
+:''adj.'' loose, moveable, portable
+*'''ovvethat''' [ovveθat] <span id="ovvethat"></span>
+:''vtr.'' to throw, to shoot (with bow)
+:{{Vsup|ovveth}}
+*'''ovvethikh''' [ovveθix] <span id="ovvethikh"></span>
+:''ni.'' goal, destination
+*'''ozzir''' [ozzir] <span id="ozzir"></span>
+:''n.'' ruby
+*'''ozzirven''' [ozziɾven] <span id="ozzirven"></span>
+:''adj.'' fiery, flashing
+
+
+=== Q ===
+
+*'''qaf''' [qɑf] <span id="qaf"></span>
+:''ni.'' question
+:{{Nsup|qaf}}
+*'''qafat''' [qɑfat] <span id="qafat"></span>
+:''vtr.'' to ask
+:{{Vsup|qaf}}
+*'''qahlan''' [qɑhlan] <span id="qahlan"></span>
+:''n.'' palomino horse
+*'''qahlanven''' [qɑhlanven] <span id="qahlanven"></span>
+:''adj.'' light brown skinned
+*'''qamay''' [qɑmaj] <span id="qamay"></span>
+:''adj.'' wailing
+*'''qana''' [qɑna] <span id="qana"></span>
+:''n.'' black stork
+:''n.'' stork (of any kind)
+*'''qayelat''' [qɑjelat] <span id="qayelat"></span>
+:''v.'' to float
+*'''qazat''' [qɑzat] <span id="qazat"></span>
+:''num.'' nine
+*'''qazer''' [qɑzer] <span id="qazer"></span>
+:'' ni.'' apple
+:{{Nsup|qazer}}
+*'''qemmemmo''' [qɛmmemmo] <span id="qemmemmo"></span>
+:''adj.'' mysterious, strange
+*'''qemmo''' [qɛmmo] <span id="qemmo"></span>
+:''na.'' cover
+*'''qemmolat''' [qɛmmolat] <span id="qemmolat"></span>
+:''v.'' to cover
+:{{Vsup|qemmo}}
+*'''qemmosor''' [qɛmmosor] <span id="qemmosor"></span>
+:''na.'' clothes
+*'''qemmotihan''' [qɛmmotihan]
+:''ni.'' eyelid
+*'''qeshah''' [qɛʃah] <span id="qeshah"></span>
+:''ni.'' sand
+*'''qeso''' [qɛso] <span id="qeso"></span>
+:''ni.'' basket
+:{{Nsup|qes}}
+*'''qevir''' [qɛvir] <span id="qevir"></span>
+:''n.'' forest
+*'''qifo''' [qefo] <span id="qifo"></span>
+:''ni.'' boar, pig, pork
+:{{Nsup|qif}}
+*'''qile''' [qele] <span id="qile"></span>
+:''n.'' island
+*'''qisi''' [qesi] <span id="qisi"></span>
+:''prep.&rarr;nom.'' about, concerning
+:''adv.'' hereabouts, near
+*'''qiya''' [qeja] <span id="qiya"></span>
+:''adj.'' bleeding
+*'''qiyalat''' [qejalat] <span id="qiyalat"></span>
+:''vin.'' to bleed
+:{{Vsup|qiya}}
+*'''qlaseh''' [qlaseh] <span id="qlaseh"></span>
+:''na.'' deer (archaic)
+*'''qora''' [qɔɾa] <span id="qora"></span>
+:''na.'' hand, arm
+*'''qoralat''' [qɔɾalat] <span id="qoralat"></span>
+:''vtr.'' to seize, to hold
+:{{Vsup|qora}}
+*'''qorasokh''' [qɔɾasox] <span id="qorasokh"></span>
+:''ni.'' prize, spoils
+*'''qorasolat''' [qɔɾasolat] <span id="qorasolat"></span>
+:''vtr.'' to take
+:''vtr.'' to rape
+:{{Vsup|qoraso}}
+*'''qorraya''' [qɔraja] <span id="qorraya"></span>
+:''ni.'' forearm, "foot (measure)"
+*'''qosar''' [qɔsar] <span id="qosar"></span>
+:''n.'' spider
+*'''qosarven''' [qɔsaɾven] <span id="qosarven"></span>
+:''adj.'' deceptive
+*'''qosarvenikh''' [qɔsaɾvenix] <span id="qosarvenikh"></span>
+:''ni.'' lie, trap, deception
+*'''qoth''' [qɔθ] <span id="qoth"></span>
+:''adj.'' repetitive
+*'''qothat''' [qɔθat] <span id="qothat"></span>
+:''vin.'' to be loyal, to be repetitive
+*'''qov''' [qɔv] <span id="qov"></span>
+:''adj.'' trembling
+*'''qovat''' [qɔvat] <span id="qovat"></span>
+:''vin.'' to tremble
+:{{Vsup|qov}}
+:{{Quote|Mahrazhi aqovi affin mori atihi mae.|Men will tremble when they will see it.}}
+*'''qovvolat''' [qɔvvolat] <span id="qovvolat"></span>
+:''v.'' to shed
+:{{Vsup|qovvo}}
+*'''qoy''' [qɔj] <span id="qoy"></span>
+:''ni.'' blood
+*'''qoy qoyi''' [qɔj qɔji] <span id="qoy qoyi"></span>
+:''phrase.'' blood of my blood
+*'''qwehat''' [qwehat] <span id="qwehat"></span>
+:''v.'' to vomit
+
+=== R ===
+
+*'''rachel''' [rat͡ʃel] <span id="rachel"></span>
+:''na.'' tiger
+*'''raggat''' [raggat] <span id="raggat"></span>
+:''vin.'' to choke on something 
+:{{Vsup|ragge}}
+*'''rai''' [rai] <span id="rai"></span>
+:''intj'' "hurrah," a yell of engouragement, a cheer
+*'''rakh''' [rax] <span id="rakh"></span>
+:''n.'' boy
+:''n.'' lamb
+*'''rakhi''' [raxi] <span id="rakhi"></span>
+:''n.'' boy (insult)
+*'''ramasar''' [ramasar] <span id="ramasar"></span>
+:''na.'' plain(s)
+*'''ray''' [raj] <span id="ray"></span>
+:''adv.'' already
+:''v. aux.'' to have, perfect tense introduction
+:{{Quote|Hash yer ray tih loy alegra, zhey vikeesi?|Have you seen any ducks, woman?}}
+:{{Quote|Anha ray char m'ave yeri lajakoon hakeso.|I heard that your father was a famous warrior.}}
+*'''rayan''' [rajan] <span id="rayan"></span>
+:''ni.'' summit, top, plateau
+*'''rea''' [rea] <span id="rea"></span>
+:''na.'' organ
+*'''reaven''' [reaven] <span id="reaven"></span>
+:''adj.'' purple
+*'''redda''' [redda] <span id="redda"></span>
+:''adj.'' thin, sleek
+*'''reddi''' [reddi] <span id="reddi"></span>
+:''adj.'' skinny
+*'''rek''' [rek] <span id="rek"></span>
+:''det.'' that (when speaking of an object not present or indirectly indicated)
+:''pn.'' that (when speaking of an animate object not present or indirectly indicated)
+:{{Nsup|rek}}
+:'''reki''' ''pn.'' that (when speaking of an inanimate object not present or indirectly indicated)
+:{{Nsup|rekies}}
+:{{Quote|Anha asshilak jin azh shafkea haji rekoon et shafka.|I make this gift to you for what you did.}}
+:{{Quote|Anha vazhak maan rek me zala.|I will give to him what he wants.}}
+*'''rekke''' [rekke] <span id="rekke"></span>
+:''ni.'' there, that place (acc.)
+:''conj.'' where
+:'''rekkaan''' ''conj.'' to where
+:'''rekkoon''' ''conj.'' from where
+*'''remek''' [remek] <span id="remek"></span>
+:''adj.'' asleep
+*'''remekat''' [remekat] <span id="remekat"></span>
+:''v.'' to sleep
+:{{Vsup|remek}}
+*'''renrenoh''' [renɾenoh] <span id="renrenoh"></span>
+:''adj.'' hollow
+*'''Reri!''' [reɾi] <span id="reri"></span>
+:''intj.'' Stay! (shortening of '''[[Vocabulary#vikovarerat|vikovareras]]'''; used to command animals)
+*'''rhae''' [ɾhae] <span id="rhae"></span>
+:''n.'' foot, leg
+*'''rhaesof''' [ɾhaesof] <span id="rhaesof"></span>
+:''ni.'' stride, "yard (measure)"
+*'''rhaesof Valiri''' [ɾhaesof Valiri] <span id="rhaesof Valiri"></span>
+:''ni.'' "meter (measure)"
+*'''rhaek''' [ɾhaek] <span id="rhaek"></span>
+:''na.'' athlete, stud, (lit. strong-legged one)
+*'''rhae mhar''' [ɾhae mhar] <span id="rhae mhar"></span>
+:''n.'' sore-foot
+*'''rhaesh''' [ɾhaeʃ] <span id="rhaesh"></span>
+:''na.'' land, country
+*'''Rhaesh Andahli''' [ɾhaeʃ andahli] <span id="Rhaesh Andahli"></span>
+:''prop n.'' Land of the Andals, Westeros
+*'''rhaesheser''' [ɾhaeʃeser] <span id="rhaesheser"></span>
+:''na.'' world
+:{{Quote|Vezh fin saja rhaesheseres vo zigereo adoroon shiqethi.|The stallion that mounts the world has no need for iron chairs.}}
+*'''Rhaeshi Ajjalani''' [ɾhaeʃi add͡ʒalani] <span id="Rhaeshi Ajjalani"></span>
+:''prop n.'' Night Lands
+*'''rhaggat''' [ɾhaggat] <span id="rhaggat"></span>
+:''ni.'' cart
+*'''rhaggat eveth''' [ɾhaggat eveθ] <span id="rhaggat eveth"></span>
+:''n.'' ship
+*'''rhanat''' [ɾhanat] <span id="rhanath"></span>
+:''v.'' to be merciful 
+*'''rhelat''' [ɾhelat] <span id="rhelat"></span>
+:''vtr.'' to help
+:{{Vsup|rhel}}
+*'''rhellaya''' [ɾhellaja] <span id="rhellaya"></span>
+:''ni.'' help
+:{{Nsup|rhellay}}
+*'''rhiko''' [ɾhiko] <span id="rhiko"></span>
+:''ni.'' help
+*'''rhoa''' [ɾhoa] <span id="rhoa"></span>
+:''n.'' animal, beast
+*'''rhojosor''' [rhod͡ʒosor] <span id="rhojosor"></span>
+:''na.'' family
+*'''rich''' [rit͡ʃ] <span id="rich"></span>
+:''ni.'' bubble, swelling
+*'''rigwa''' [rigwa] <span id="rigwa"></span>
+:''n.'' raisin
+*'''rikh''' [rix] <span id="rikh"></span>
+:''adj.'' rotten
+*'''rikholat''' [rixolat] <span id="rikholat"></span>
+:''vin.'' to rot
+:{{Vsup|rikho}}
+*'''rissat''' [rissat] <span id="rissat"></span>
+:''vtr.'' to cut (slice)
+:''vtr.&rarr;abl.'' to cut into
+:{{Vsup|risse}}
+*'''riv''' [riv] <span id="riv"></span>
+:''n.'' nose, tip
+*'''rivvat''' [rivvat] <span id="rivvat"></span>
+:''vtr.'' to smell, to sniff
+*'''rivve''' [rivve] <span id="rivve"></span>
+:''ni.'' sniff
+:{{Nsup|rivve}}
+*'''rizh''' [riʒ] <span id="rizh"></span>
+:''na.'' son
+*'''rof''' [rof] <span id="rof"></span>
+:''adj.'' shriveled
+*'''rokhat''' [roxat] <span id="rokhat"></span>
+:''v.'' to fear
+
+=== S ===
+
+*'''sachat''' [sat͡ʃat] <span id="sachat"></span>
+:''v.'' to split, to divide
+*'''sachi''' [sat͡ʃi] <span id="sachi"></span>
+:'' ni.'' half
+:{{Nsup|sache}}
+*'''saccheya''' [satt͡ʃeja] <span id="saccheya"></span>
+:'' ni.'' category, part, piece
+:{{Nsup|sacchey}}
+*'''sajak''' [sad͡ʒak] <span id="sajak"></span>
+:''na.'' rider
+*'''sajat''' [sad͡ʒat] <span id="sajat"></span>
+:''vtr.'' to mount
+:{{Vsup|saj}}
+:{{Quote|Vezh fin saja rhaesheseres!|The stallion that mounts the world!}}
+*'''sajo''' [sad͡ʒo] <span id="sajo"></span>
+:''na.'' steed
+*'''samva''' [samva] <span id="samva"></span>
+:''adj.'' broken
+*'''samven''' [samven] <span id="samven"></span>
+:''adj.'' numerous
+*'''samvenolat''' [samvenolat] <span id="samvenolat"></span>
+:''vtr.'' to surpass
+:{{Vsup|samveno}}
+*'''samvolat''' [samvolat] <span id="samvolat"></span>
+:''vin.'' to break (when something breaks)
+:{{Vsup|samvo}}
+*'''san''' [san] <span id="san"></span>
+:''ni.'' heap, pile
+:''det.&rarr;gen.'' much, many
+:{{Quote|Anha ray tih san jani.|I have seen many dogs.}}
+*'''sandi''' [sandi] <span id="sandi"></span>
+:''adj.'' safe
+*'''sanneyalat''' [sannejalat] <span id="sanneyalat"></span>
+:''v.'' to count
+:{{Vsup|sanneya}}
+*'''saqoyalat''' [saqɔyalat] <span id="saqoyalat"></span>
+:''vin.'' to be covered in blood
+:{{Vsup|saqoya}}
+*'''sash''' [saʃ] <span id="sash"></span>
+:''adj.'' new
+*'''sathoma''' [saθoma] <span id="sathoma"></span>
+:''adj.'' juicy
+*'''sathomakh''' [saθomax] <span id="sathomakh"></span>
+:''ni.'' orange
+*'''save''' [save] <span id="save"></span>
+:''adv.'' again, back
+*'''savidosalat''' [savidosalat] <span id="savidosalat"></span>
+:''v.'' to be protected
+:{{Vsup|savidosa}}
+*'''sek''' [sek] <span id="sek"></span>
+:''intj.'' yes
+:{{Quote|Rhaeshi, sek.|Lands, yes.}}
+*'''sekke''' [sekke] <span id="sekke"></span>
+:''adv.'' very, really, so
+*'''sekosshi''' [sekoʃʃi] <span id="sekosshi"></span>
+:''adv.'' surely, certanly
+*'''sen''' [sen] <span id="sen"></span>
+:''num.'' three
+*'''Senthisir''' [senθisir] <span id="senthisir"></span>
+:''prop n.'' The Thirteen
+*'''seris''' [seɾis]  <span id="seris"></span>
+:''adj.'' free
+*'''serja''' [seɾd͡ʒa] <span id="serja"></span>
+:''ni.'' vest
+:{{Nsup|serj}}
+*'''sewaf''' [sewaf] <span id="sewaf"></span>
+:''n.'' grape
+*'''sewafikh''' [sewafix] <span id="sewafikh"></span>
+:''ni.'' wine
+*''''sh''' [ʃ]
+:''v. aux.'' (elided version, see '''[[Vocabulary#ish|ish]]''')
+*'''shafka''' [ʃafka] <span id="shafka"></span>
+:''pn.'' you (respectful)
+:{{Quote|Anha asshilak jin azh shafkea haji rekoon et shafka.|I make this gift to you for what you did.}}
+*'''sharat''' [ʃaɾat] <span id="sharat"></span>
+:''vin.'' to be healthy
+:{{Vsup|shar}}
+*'''she''' [ʃe] <span id="she"></span>
+:''prep.&rarr;nom.'' on, upon, in
+:''prep.&rarr;abl.'' off of
+:''prep.&rarr;all.'' onto
+:{{Quote|Dalen rhaggat eveth ma ale vekhi she Vaes Seris.|There are thousands of ships in the free cities.}}
+:{{Quote|Eyel varthasoe she ilekaan rikhoya.|The rain will fall on your rotting skin.}}
+*'''shekh''' [ʃex] <span id="shekh"></span>
+:''ni.'' sun
+*'''shekh drivo''' [ʃex dɾivo] <span id="shekh drivo"></span>
+:''ni.'' setting sun
+*'''shekhikh''' [ʃexix] <span id="shekhikh"></span>
+:''ni.'' light
+*'''shekhqoyi''' [ʃexqɔji] <span id="shekhqoyi"></span>
+:''ni.'' total solar eclipse
+:{{Nsup|shekhqoy}}
+*'''shierak''' [ʃieɾak] <span id="shierak"></span>
+:''na.'' star
+*'''shierak qiya''' [ʃieɾak qeja] <span id="shierak qiya"></span>
+:''n.'' comet
+:'''shigat''' [ʃigat] <span id="shigat"></span>
+:''vin.'' to snore
+:'''shigi''' [ʃigi] <span id="shigi"></span>
+:''ni.'' snore
+:{{Nsup|shige}}
+*'''shilak''' [ʃilak] <span id="shilak"></span>
+:''na.'' gossip, busybody
+*'''shilat''' [ʃilat] <span id="shilat"></span>
+:''vtr.'' to know (someone), to be familiar with
+:{{Vsup|shil}}
+*'''shillat''' [ʃillat] <span id="shillat"></span>
+:''vtr.'' to trust
+*'''shillolat''' [ʃillolat] <span id="shillolat"></span>
+:''vtr.'' to believe
+:{{Vsup|shillo}}
+*'''shilolat''' [ʃilolat] <span id="shilolat"></span>
+:''vtr.'' to meet, to get to know
+:{{Vsup|shilo}}
+*'''shim''' [ʃim] <span id="shim"></span>
+:''adj.'' tame
+*'''shin''' [ʃin] <span id="shin"></span>
+:''n.'' sound of fire going out
+*'''shinat''' [ʃinat] <span id="shinat"></span>
+:''v.'' to burn out, to fizzle out
+:{{Vsup|shin}}
+*'''shiqeth''' [ʃiqɛθ] <span id="shiqeth"></span>
+:''adj.'' grey
+*'''shiqethi''' [ʃiqɛθi] <span id="shiqethi"></span>
+:''ni.'' iron
+:{{Quote|Vezh fin saja rhaesheseres vo zigereo adoroon shiqethi.|The stallion that mounts the world has no need for iron chairs.}}
+*'''shirane''' [ʃiɾane] <span id="shirane"></span>
+:''ni.'' beard
+*'''shiro''' [ʃiɾo] <span id="shiro"></span>
+:''na.'' scorpion
+*'''shokat''' [ʃokat] <span id="shokat"></span>
+:''v.'' to jump over
+:{{Vsup|shok}}
+*'''sholat''' [ʃolat] <span id="sholat"></span>
+:''v.'' to mark
+:{{Vsup|sho}}
+*'''shoven''' [ʃoven] <span id="shoven"></span>
+:''adj.'' marked, smudged
+*'''shor''' [ʃor] <span id="shor"></span>
+:''na.'' dress, garment worn primarily by women
+*'''shor tawakof''' [ʃor tawakof] <span id="shor tawakof"></span>
+:''na.'' armor, "steel dress"
+*'''siera''' [sieɾa] <span id="siera"></span>
+:''na.'' nephew
+*'''sikhtelat''' [sixtelat] <span id="sikhtelat"></span>
+:''vtr.'' to spit
+:{{Vsup|sikhte}}
+*'''silat''' [silat] <span id="silat"></span>
+:''v.'' to flash, to gleam
+:{{Vsup|si}}
+*'''silat''' [silat] <span id="silat"></span>
+:''v.'' to follow
+:{{Vsup|sil}}
+*'''silak''' [silak] <span id="silak"></span>
+:''na.'' follower, subject
+*'''silokh''' [silox] <span id="silokh"></span>
+:''adv.'' tomorrow
+*'''simon''' [simon] <span id="simon"></span>
+:''na.'' male relative
+*'''simonof''' [simonof] <span id="simonof"></span>
+:''na.'' grandfather
+*'''sindarine''' [sindarine] <span id="sindarine"></span>
+:''adv.'' left
+*'''sindarinekh''' [sindarinex] <span id="sindarinekh"></span>
+:''ni.'' left side
+*'''sisi''' [sisi] <span id="sisi"></span>
+:''na.'' lightning
+*'''som''' [som] <span id="som"></span>
+:''num.'' zero
+:''adj.'' absent, missing
+*'''sondra''' [sondɾa] <span id="sondra"></span>
+:''ni.'' dragon glass
+:{{Nsup|sondre}}
+*'''soqat''' [soqɑt] <span id="soqat"></span>
+:''v.'' to weave
+:{{Vsup|soqe}}
+*'''soqwi''' [soqwi] <span id="soqwi"></span>
+:''ni.'' plum
+:{{Nsup|soqwe}}
+*'''soqwof''' [soqwof] <span id="soqwof"></span>
+:''ni.'' plum tree
+*'''sorf''' [soɾf] <span id="sorf"></span>
+:''adj.'' dirty
+*'''sorfo''' [soɾfo] <span id="sorfo"></span>
+:''ni.'' dirt
+:{{Nsup|sorf}}
+*'''sorfosor''' [soɾfosor] <span id="sorfosor"></span>
+:''na.'' earth
+:{{Quote|Sorfosor nakha she Havazzhifi Kazga.|The earth ends at The Black Salt Sea.}}
+*'''sorohis''' [soɾohis] <span id="sorohis"></span>
+:''intj.'' halt (when referring to horses)
+*'''sovi''' [sovi] <span id="sovi"></span>
+:''n.'' pear 
+*'''sovikh''' [sovix] <span id="sovikh"></span>
+:''ni.'' pear brandy
+:{{Vsup|sovikh}}
+
+=== T ===
+
+*'''taso''' [taso] <span id="taso"></span>
+:''n.'' silk worm
+*'''tasokh''' [tasox] <span id="tasokh"></span>
+:''ni.'' silk
+*'''tat''' [tat] <span id="tat"></span>
+:''vtr.'' to do
+:{{Vsup|et}}
+:{{Quote|Anha asshilak jin azh shafkea haji rekoon et shafka.|I make this gift to you for what you did.}}
+:{{Quote|Anha, zhey Drogo, atak jin.|I, Drogo, will do this.}}
+*'''taoka''' [taoka] <span id="taoka"></span>
+:''adj.'' metal
+*'''tavat''' [tavat] <span id="tavat"></span>
+:''v.'' chop
+*'''tawak''' [tawak] <span id="tawak"></span>
+:''ni.'' metal, real, authentic, legitimate
+*'''tehin''' [tehin] <span id="tehin"></span>
+:''n.'' breed of horse with reddish/brown coat
+*'''temme''' [temme] <span id="temme"></span>
+:''na.'' thunder
+:{{Nsup|tem}}
+*''''th''' [θ]
+:''v. aux.'' (elided version, see '''[[Vocabulary#eth|eth]]''')
+*'''thagwa''' [θagwa] <span id="thagwa"></span> 
+:''ni.'' yogurt made from mare’s milk
+:{{Nsup|thagwe}}
+*'''thagwash''' [θagwaʃ]  <span id="thagwash"></span> 
+:''ni.'' a dessert made from '''[[Vocabulary#thagwa|thagwa]]''' and eaten with dried fruit
+*'''thash''' [θaʃ] <span id="thash"></span>
+:''adj.'' soft
+*'''theya''' [θeja] <span id="theya"></span>
+:''n.'' nipple
+*'''theyaven''' [θejaven] <span id="theyaven"></span>
+:''adj.'' pink
+*'''thelis''' [θelis] <span id="thelis"></span>
+:''adj.'' blue
+*'''thi''' [θi] <span id="thi"></span>
+:''num.'' ten
+*'''thif''' [θif] <span id="thif"></span>
+:''adj.'' narrow
+*'''thikh''' [θix] <span id="thikh"></span>
+:''ni.'' task
+*'''thir''' [θir] <span id="thir"></span>
+:''adj.''' alive
+:'''thirat''' ''v.'' to live
+:{{Vsup|thir}}
+*'''thirat atthiraride''' [θiɾat aθθiɾaɾide] <span id="thirat atthiraride"></span>
+:''v.'' to dream; (lit.) to live a wooden life
+*'''thirolat''' [θiɾolat] <span id="thirolat"></span>
+:''v.'' survive
+:{{Vsup|thiro}}
+*'''thom''' [θom] <span id="thom"></span>
+:''ni.'' juice
+*'''tif''' [tif] <span id="tif"></span>
+:''n.'' nut
+*'''tih''' [tih] <span id="tih"></span>
+:''na.'' eye
+*'''tihat''' [tihat] <span id="tihat"></span>
+:''vtr.'' to look, to see
+:{{Vsup|tih}}
+*'''tihikh''' [tihix] <span id="tihikh"></span>
+:''ni.'' view
+*'''tihikhziri''' [tihixziɾi] <span id="tihikhziri"></span>
+:''ni.'' overview
+:{{Nsup|tihikhzir}}
+*'''tihilat''' [tihilat] <span id="tihilat"></span>
+:''vtr.'' to look at, to glance at
+:{{Vsup|tihi}}
+*'''tiholat''' [tiholat] <span id="tiholat"></span>
+:''v.'' to understand
+:{{Vsup|tiho}}
+*'''tikh''' [tix] <span id="tikh"></span>
+:''ni.'' deed, act
+*'''tikkheya''' [tixxeja] <span id="tikkheya"></span>
+:''ni.'' verb
+:''ni.'' the instigator's half of the act
+:{{Nsup|tikkhey}}
+*'''tim''' [tim] <span id="tim"></span>
+:''ni.'' boot
+*'''timvir''' [timvir] <span id="timvir"></span> (from Valyrian {{HVlex|tembyr}})
+:''n.'' book
+*'''tir''' [tir] <span id="tir"></span>
+:''ni.'' finger
+*'''tirat''' [tiɾat] <span id="tirat"></span>
+:''v.'' to point
+*'''tirikh''' [tiɾix] <span id="tirikh"></span>
+:''ni.'' nail
+*'''tith''' [tiθ] <span id="tith"></span>
+:''adj.'' eastern
+*'''titha''' [tiθa] <span id="titha"></span>
+:''ni.'' east
+:{{Nsup|tith}}
+*'''toki''' [toki] <span id="toki"></span>
+:''adj.'' dumb
+*'''tokik''' [tokik] <span id="tokik"></span>
+:''na.'' fool
+*'''tolorro''' [toloro] <span id="tolorro"></span>
+:''ni.'' bone
+:{{Nsup|tolor}}
+*'''tor''' [tor] <span id="tor"></span>
+:''num.'' four
+*'''torga''' [toɾga] <span id="torga"></span>
+:''ni.'' stomach
+:{{Nsup|torge}}
+:''prep.&rarr;gen.'' under
+:{{Quote|Me dothrakhqoyoon torga Khali Bharbo.|He was bloodrider to Khal Bharbo.}}
+*'''tozara''' [tozara] <span id="tozara"></span>
+:''na.'' lake
+
+=== V ===
+
+*'''vadakherat''' [vadaxerat] <span id="vadakherat"></span>
+:''v.'' to feed
+:{{Vsup|vadakher}}
+*'''vado''' [vado] <span id="vado"></span>
+:''ni.'' turnip
+:''ni.'' filly
+*'''vaes''' [vaes] <span id="vaes"></span>
+:''ni.'' city
+*'''vaesilat''' [vaesilat] <span id="vaesilat"></span>
+:''v.'' to clog
+:{{Vsup|vaesi}}
+*'''Vaes Dothrak''' [vaes doθɾak] <span id="Vaes Dothrak"></span>
+:''prop, n.'' City of the Dothraki
+*'''Vaes Seris''' [vaes seɾis] <span id="Vaes Seris"></span>
+:''prop, n.'' Free Cities
+*'''Vaes Tolorro''' [vaes toloro] <span id="Vaes Tolorro"></span>
+:''prop. n.'' City of Bones
+*'''vafi''' [vafi] <span id="vafi"></span>
+:''ni.'' lamb (female)
+:{{Nsup|vaf}}
+*'''vafik''' [vafik] <span id="vafik"></span>
+:''na.'' lamb girl
+*'''vafikh''' [vafix] <span id="vafikh"></span>
+:''ni.'' wool
+*'''valsh''' [valʃ] <span id="valsh"></span>
+:''adj.'' northern
+*'''valshe''' [valʃe] <span id="valshe"></span>
+:''ni.'' north
+:{{Nsup|valsh}}
+*'''valshek''' [valʃek] <span id="valshek"></span>
+:''na.'' northerner
+*'''valshtithak''' [valʃtiθak] <span id="valshtithak"></span>
+:''na.'' northeastener
+*'''vash''' [vaʃ] <span id="vash"></span>
+:''n.'' stampede
+*'''vash hrazefmen''' [vaʃ hrazefmen] <span id="vash hrazefmen"></span>
+:''n.'' earthquake
+*'''vasterat''' [vasteɾat] <span id="vasterat"></span>
+:''vtr.'' to speak with, to converse
+:{{Vsup|vaster}}
+*'''vatterat''' [vatteɾat] <span id="vatterat"></span>
+:''v.'' to continue
+:{{Vsup|vatter}}
+*'''vaz''' [vaz] <span id="vaz"></span>
+:''n.'' storm
+*'''vazyol''' [vazjol] <span id="vazyol"></span>
+:''ni.'' stormborn
+*'''vefenarat''' [vefenaɾat] <span id="vefenarat"></span>
+:''v.'' to pry something off something else
+*'''vekhat''' [vexat] <span id="vekhat"></span>
+:''vin.'' to be present, to exist (assigns the subject to genitive)
+:{{Vsup|vekh}}
+:{{Quote|Hash tihi vekhi she nhare yeroon?|Do you have eyes in your head?}}
+:{{Quote|Nevakhi vekha ha maan.|There is a place for you.}}
+*'''vekhikh''' [vexix] <span id="vekhikh"></span>
+:''ni.'' object, thing
+:''na.'' noun
+*'''vekhikh asavva''' [vexix asavva] <span id="vekhikh asavva"></span>
+:''n.'' animate noun
+*'''vekhikh hranna''' [vexix hranna] <span id="vekhikh hranna"></span>
+:''n.'' inanimate noun
+*'''velainerat''' [velaineɾat] <span id="velainerat"></span>
+:''v.'' to sow
+:{{Vsup|velainer}}
+*'''veltor''' [veltor] <span id="veltor"></span>
+:''adj.'' yellow
+*'''velzerat''' [velzeɾat] <span id="velzerat"></span>
+:''v.'' to stall
+*'''velzerikh''' [velzeɾix] <span id="velzerikh"></span>
+:''ni.'' reason why
+*'''vem''' [vem] <span id="vem"></span>
+:''n.'' knee, elbow
+*'''vemish''' [vemiʃ] <span id="vemish"></span>
+:''ni.'' heel (of hand or foot)
+*'''vemishikh''' [vemiʃix] <span id="vemishikh"></span>
+:''ni.'' heel (of a boot)
+*'''ven''' [ven] <span id="ven"></span>
+:''conj.'' like, as
+:{{Quote|Anha adothrak hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.|I will ride wooden horses across the black salt sea as no khal has done before.}}
+*'''venat''' [venat] <span id="venat"></span>
+:''vtr.'' to be like, to be similar to
+:{{Vsup|ven}}
+*'''veneser''' [veneser] <span id="veneser"></span>
+:''na.'' class, category
+*'''venikh''' [venix] <span id="venikh"></span>
+:''ni.'' semblance
+*'''ver''' [ver] <span id="ver"></span>
+:''n.'' wolf
+*'''verak''' [veɾak] <span id="verak"></span>
+:''na.'' traveler
+*'''verakasar''' [veɾakasar] <span id="verakasar"></span>
+:''na.'' caravan
+*'''verat''' [veɾat] <span id="verat"></span>
+:''v.'' to travel
+:{{Vsup|ver}}
+*'''verikh''' [veɾix] <span id="verikh"></span>
+:''ni.'' defensive sword strike
+*'''verven''' [veɾven] <span id="verven"></span>
+:''adj.'' violent
+*'''vezh''' [veʒ] <span id="vezh"></span>
+:''na.'' stallion
+*'''vezhak''' [veʒak] <span id="vezhak"></span>
+:''na.'' horse lord
+*'''vezhven''' [veʒven] <span id="vezhven"></span>
+:''adj.'' great
+*'''vi''' [vi] <span id="vi"></span>
+:''prep.&rarr;all.'' through, along
+*'''vichiterat''' [vit͡ʃiteɾat] <span id="vichiterat"></span>
+:''vin.'' to shiver
+:{{Vsup|vichiter}}
+*'''vichomer''' [vit͡ʃomer] <span id="vichomer"></span>
+:''adj.'' respectful, respectable
+:'''vichomerat''' ''vin.'' to be respectful
+:{{Vsup|vichomer}}
+*'''vichomerak''' [vit͡ʃomeɾak] <span id="vichomerak"></span>
+:''na.'' respectful one
+*'''vidrogerat''' [vidɾogeɾat] <span id="vidrogerat"></span>
+:''v.'' to ride
+:{{Vsup|vidroger}}
+*'''vigererat''' [vigeɾeɾat] <span id="vigererat"></span>
+:''vtr.&rarr;abl.'' to miss someone
+*'''vijazerat''' [vid͡ʒazeɾat] <span id="vijazerat"></span>
+:''vtr.'' to protect
+:{{Vsup|viljazer}}
+*'''vijazerolat''' [vid͡ʒazeɾolat] <span id="vijazerolat"></span>
+:''vtr.'' to save, to rescue
+:{{Vsup|vijazero}}
+*'''vik''' [vik] <span id="vik"></span>
+:''ni.'' chin
+*'''vikeesi''' [vikeesi] <span id="vikeesi"></span>
+:''n.'' slang for annoying woman
+*'''vikovarerat''' [vikovaɾeɾat] <span id="vikovarerat"></span>
+:''v.'' to stay
+*'''vil''' [vil] <span id="vil"></span>
+:''v. aux.'' to manage to
+*'''vilajero''' [vilad͡ʒeɾo] <span id="vilajero"></span>
+:''ni.'' battle
+*'''vilajerosh''' [vilad͡ʒeɾoʃ] <span id="vilajerosh"></span>
+:''ni.'' game
+*'''Vilajerosh Adori''' [vilad͡ʒeɾoʃ adori] <span id="Vilajerosh Adori"></span>
+:''prop. n.'' A Game of Thrones
+*'''ville''' [ville] <span id="ville"></span>
+:''adj.'' wise
+:'''villat''' ''vin.'' to be wise
+*'''vimatterat''' [vimatteɾat] <span id="vimatterat"></span>
+:''v.'' to limp
+:{{Vsup|vimatter}}
+*'''vimithrerat''' [vimiθɾeɾat] <span id="vimithrerat"></span>
+:''v.'' to rest, to camp
+:{{Vsup|vimithrer}}
+*'''vindelat''' [vindelat] <span id="vindelat"></span>
+:''vtr.'' to stab
+:''vtr.&rarr;all.'' to stab at
+:{{Vsup|vinde}}
+*'''vineserat''' [vineseɾat] <span id="vineserat"></span>
+:''vtr.'' to remember
+:{{Vsup|vineser}}
+*'''vinte''' [vinte] <span id="vinte"></span>
+:''ni.'' portion of meat
+*'''viqaferat''' [viqɑfeɾat] <span id="viqaferat"></span>
+:''v.'' to beg, to plead
+:{{Vsup|viqafer}}
+*'''virsalat''' [viɾsalat] <span id="virsalat"></span>
+:''vin.'' to burn
+:{{Vsup|virsa}}
+*'''virzeth''' [viɾzeθ] <span id="virzeth"></span>
+:''adj.'' red
+*'''virzetha''' [viɾzeθa] <span id="virzetha"></span>
+:''ni.'' red wine
+*'''vish''' [viʃ] <span id="vish"></span>
+:''n.'' forehead
+*'''vishaferat''' [viʃafeɾat] <span id="vishaferat"></span>
+:''vtr.'' to break a horse
+:''vtr.'' to domesticate a beast of burden
+:''vtr.'' to get one’s first kill with a new weapon
+:{{Vsup|vishafer}}
+*'''visshiya''' [viʃʃija] <span id="visshiya"></span>
+:''ni.'' color
+:{{Nsup|visshiy}}
+*'''vithalat''' [viθalat] <span id="vithalat"></span>
+:''v.'' to flow
+:{{Vsup|vitha}}
+*'''vitiherat''' [vitiheɾat] <span id="vitiherat"></span>
+:''v.'' to look upon, to stare at, to examine
+:''v.'' to ponder
+:{{Vsup|vitiher}}
+*'''vitihirak''' [vitihiɾak] <span id="vitihirak"></span>
+:''na.'' watch, guard
+*'''vitihirat''' [vitihiɾat] <span id="vitihirat"></span>
+:''v.'' to watch, to observe
+:{{Vsup|vitihir}}
+*'''vitisherat''' [vitiʃeɾat] <span id="vitisherat"></span>
+:''vin.'' to grow
+:{{Vsup|vitisher}}
+*'''vitteya''' [vitteja] <span id="vitteya"></span>
+:''ni.'' feast, gathering with a feast
+:{{Nsup|vittey}}
+*'''vizhadi''' [viʒadi] <span id="vizhadi"></span>
+:''ni.'' silver
+:{{Nsup|vizhad}}
+*'''vo''' [vo] <span id="vo"></span>
+:''adv.'' not, no; a shortened variant of '''vos''', that may be used when the next word starts with a consonant.
+:{{Quote|Vo sorfo. Rhaeshi.|Not dirt. Lands.}}
+*'''vod''' [vod] <span id="vod"></span>
+:''ni.'' dust
+*'''voj''' [vod͡ʒ] <span id="voj"></span>
+:''na.'' person
+*'''vojjor''' [vodd͡ʒor] <span id="vojjor"></span>
+:''ni.'' deity, god
+*'''vorsa''' [voɾsa] <span id="vorsa"></span>
+:''na.'' fire
+*'''vorsakh''' [voɾsax] <span id="vorsakh"></span>
+:''ni.'' flame
+*'''vorsaska''' [voɾsaska] <span id="vorsaska"></span>
+:''ni.'' summer
+:{{Nsup|vorsask}}
+*'''vorsqoyi''' [voɾsqɔji] <span id="vorsqoyi"></span>
+:''ni.'' funeral pyre
+*'''vorto''' [voɾto] <span id="vorto"></span>
+:''ni.'' tooth
+:{{Nsup|vorto}}
+*'''vos''' [vos] <span id="vos"></span>
+:''adv.'' not, no, (negator)
+:{{Quote|Khal vos zigereo adoroon anevasoe maan.|A khal doesn't need a chair to sit on.}}
+:{{Quote|Me vos ador.|It's not a chair.}}
+*'''vosecchi''' [vosett͡ʃi] <span id="vosecchi"></span>
+:''adv.'' emphatic negative, "of course not"
+:{{Quote|Sorfosor nakho vosecchi she havazh.|The Earth does <u>not</u> end at the sea.}}
+*'''vosi''' [vosi] <span id="vosi"></span>
+:''ni.'' nothing
+:{{Nsup|vos}}
+*'''vosm'''' [vosm]
+:''conj.'' (elided version, see '''[[Vocabulary#vosma|vosma]]''')
+*'''vosma''' [vosma] <span id="vosma"></span>
+:''conj.'' but
+:{{Quote|Eyel varthasoe she ilekaan rikhoya arrekaan vekha vosi yeroon vosma tolorro!|The rain will fall on your rotting skin until nothing is left of you but bones.}}
+*'''vov''' [vov] <span id="vov"></span>
+:''na.'' weapon
+*'''vrelat''' [vɾelat] <span id="vrelat"></span>
+:''v.'' to leap
+:{{Vsup|vrel}}
+*'''vroz''' [vɾoz] <span id="vroz"></span>
+:''adj.'' slow
+
+=== Y ===
+
+*'''yachi norethmen''' [jat͡ʃi noɾeθmen] <span id="yachi norethmen"></span>
+:''np.'' nectarine
+*'''yalli''' [jalli] <span id="yalli"></span>
+:''na.'' child
+*'''yamori''' [yamoɾi] <span id="yamori"></span>
+:''na.'' youth
+*'''yanqokh''' [janqɔx] <span id="yanqokh"></span>
+:''ni.'' collection
+*'''yanqolat''' [janqɔlat] <span id="yanqolat"></span>
+:''vtr.'' to collect, to gather
+:''vtr.&rarr;abl.'' to gather (some)
+:{{Vsup|yanqo}}
+*'''yath''' [jaθ] <span id="yath"></span>
+:''adj.'' high
+*'''yathokh''' [jaθox] <span id="yathokh"></span>
+:''ni.'' ramp
+*'''yatholat''' [jaθolat] <span id="yatholat"></span>
+:''v.'' to rise
+:{{Vsup|yatho}}
+*'''yeni''' [jeni] <span id="yeni"></span>
+:''ni.'' failure
+*'''yer''' [jer] <span id="yer"></span>
+:''pn.'' you
+*'''yeri''' [jeɾi] <span id="yeri"></span>
+:''pn.'' you (plural)
+:''pn.'' your (singular)
+*'''yesi''' [jesi] <span id="yesi"></span>
+:''na.'' crone
+*'''yetto''' [jetto] <span id="yetto"></span>
+:''ni.'' frog
+:{{Nsup|yet}}
+*'''yofi''' [jofi] <span id="yofi"></span>
+:''adj.'' mad, crazy
+*'''yol''' [jol] <span id="yol"></span>
+:''adj.'' born
+:'''yolat''' ''vin.'' to be born
+:{{Vsup|yol}}
+*'''yom''' [jom] <span id="yom"></span>
+:''ni.'' crossing
+*'''yomat''' [jomat] <span id="yomat"></span>
+:''vtr.'' to cross
+:{{Vsup|yom}}
+:{{Quote|Vo hrazef laz yoma evethiz.|No horse can cross the poison water.}}
+*'''yomme''' [jomme] <span id="yomme"></span>
+:''prep.&rarr;nom.'' across
+:''prep.&rarr;abl.'' in spite of
+*'''yor''' [jor] <span id="yor"></span>
+:''num.'' million
+*'''yorosor''' [joɾosor] <span id="yorosor"></span>
+:''num.'' extremely large number
+*'''yot''' [jot] <span id="yot"></span>
+:''ni.'' fruit
+*'''yothnhare''' [joθnhare] <span id="yothnhare"></span>
+:''ni.'' brain (human)
+
+=== Z ===
+
+*'''zafra''' [zafra] <span id="zafra"></span>
+:''ni.'' slave
+:{{Nsup|zafre}}
+*'''zajjat''' [zadd͡ʒat] <span id="zajjat"></span>
+:''vtr.'' to refuse to
+:{{Vsup|zajje}}
+*'''zalat''' [zalat] <span id="zalat"></span>
+:''vtr.'' to hope for, to want
+:{{Vsup|zal}}
+:{{Quote|Khaleesi zala meme adakha esinakh ajjalan.|The khaleesi wants to eat something different tonight.}}
+:{{Quote|Ifak asta meme zala firikhnharen.|The foreigner says that he wants a crown.}}
+*'''zhalia''' [ʒalia] <span id="zhalia"></span>
+:''ni.'' butterfly
+:{{Nsup|zhalie}}
+*'''zande''' [zande] <span id="zande"></span>
+:''n.'' satchel sack
+*'''zanisshi''' [zaniʃʃi] <span id="zanisshi"></span>
+:''ni.'' shade
+:{{Nsup|zanisshe}}
+*'''zasqa''' [zasqɑ] <span id="zasqa"></span>
+:''adj.'' white
+*'''zerqolat''' [zerqɔlat] <span id="zerqolat"></span>
+:v. to swim
+*'''zhani''' [ʒani] <span id="zhani"></span>
+:''ni.'' spear
+:{{Nsup|zhan}}
+*'''zhaqe''' [ʒaqɛ] <span id="zhaqe"></span>
+:''n.'' bass (fish)
+*'''zhav''' [ʒav] <span id="zhav"></span>
+:''n.'' lizard
+*'''zhavorsa''' [ʒavoɾsa] <span id="zhavorsa"></span>
+:''ni.'' dragon ([[Vocabulary#zhavvorsa|alternate pronunciation]])
+:{{Nsup|zhavors}}
+*'''zhavvorsa''' [ʒavvoɾsa] <span id="zhavvorsa"></span>
+:''ni.'' dragon ([[Vocabulary#zhavorsa|alternate pronunciation]])
+:{{Nsup|zhavvors}}
+*'''zheana''' [ʒeana] <span id="zheana"></span>
+:''adj.'' beautiful (used for animate nouns)
+:'''zheanalat''' ''vin.'' to be beautiful (used for animate nouns)
+:{{Vsup|zheana}}
+*'''zhey''' [ʒej] <span id="zhey"></span>
+:''part.'' vocative particle
+:{{Quote|Anha, zhey Drogo, atak jin.|I, Drogo, will do this.}}
+:{{Quote|Zhey jalan atthirari anni. Hash azisi?|Moon of my live. Are you hurt?}}
+:{{Quote|Hash yer ray tih loy alegra, zhey vikeesi?|Have you seen any ducks, woman?}}
+*'''zhif''' [ʒif] <span id="zhif"></span>
+:''ni.'' salt
+*'''zhifikh''' [ʒifix] <span id="zhifikh"></span>
+:''ni.'' dried salt meat
+*'''zhifven''' [ʒifven] <span id="zhifven"></span>
+:''adj.'' salty
+*'''zhikhat''' [ʒixat] <span id="zhikhat"></span>
+:''v.'' to be sick
+:{{Vsup|zhikh}}
+*'''zhilat''' [ʒilat] <span id="zhilat"></span>
+:''vtr.'' to love someone (used of romantic or sexual love; a private word)
+:{{Vsup|zhil}}
+*'''zhille''' [ʒille] <span id="zhille"></span>
+:''det.'' any
+:{{Quote|Okki zhille hrazef fin allayafa shafka drogikhoon anni.|Choose any horse you wish from my herd.}}
+*'''zhilli''' [ʒilli] <span id="zhilli"></span>
+:''adj.'' general
+*'''zhillie''' [ʒillie] <span id="zhillie"></span>
+:''ni.'' advice
+:{{Nsup|zhilli}}
+*'''zhinda''' [ʒinda] <span id="zhinda"></span>
+:''num.'' six
+*'''zhokakkwa''' [ʒokakkwa] <span id="zhokakkwa"></span>
+:''adj.'' enormous
+*'''zhokwa''' [ʒokwa] <span id="zhokwa"></span>
+:''adj.'' big
+:'''zhokwalat''' ''vin.'' to be large
+:{{Vsup|zhokwa}}
+*'''zhor''' [ʒor] <span id="zhor"></span>
+:''na.'' heart
+:''n.'' pit of a fruit, meat of a nut
+*'''zhorre''' [ʒore] <span id="zhorre"></span>
+:''adj.'' own
+*'''zhorrof''' [ʒorof] <span id="zhorrof"></span>
+:''ni.'' fig (fresh fruit of a fig tree)
+*'''zhowak''' [ʒowak] <span id="zhowak"></span>
+:''adj.'' dangerous
+*'''zichome''' [zit͡ʃome] <span id="zichome"></span>
+:''adj.'' disrespectful
+*'''zifichelat''' [zifit͡ʃelat] <span id="zifichelat"></span>
+:''v.'' to steal
+:{{Vsup|zifiche}}
+*'''ziganelat''' [ziganelat] <span id="ziganelat"></span>
+:''v.'' to burden
+:{{Vsup|zigane}}
+*'''ziganesolat''' [ziganesolat] <span id="ziganesolat"></span>
+:''vtr.'' to defy, the oppose
+:{{Vsup|ziganeso}}
+*'''zigere''' [zigeɾe] <span id="zigere"></span>
+:''adj.'' required, requisite
+*'''zigerelat''' [zigeɾelat] <span id="zigerelat"></span>
+:''vtr.&rarr;abl.'' to require, to need
+:{{Vsup|zigere}}
+:{{Quote|Khal vos zigereo adoroon anevasoe maan.|A khal doesn't need a chair to sit on.}}
+*'''zimemelat''' [zimemelat] <span id="zimemelat"></span>
+:''vtr.'' to distract
+:{{Vsup|zimeme}}
+*'''zin''' [zin] <span id="zin"></span>
+:''v. aux.'' still ("continuation" particle)
+*'''zinay''' [zinaj] <span id="zinay"></span>
+:''adj.'' remaining
+*'''ziqwehelat''' [ziqwehelat] <span id="ziqwehelat"></span>
+:''v.'' to retch
+:{{Vsup|ziqwehe}}
+*'''zir''' [zir] <span id="zir"></span>
+:''n.'' bird
+*'''zireyeselat''' [ziɾejeselat] <span id="zireyeselat"></span>
+:''vtr.'' to offend, to bug, to jostle
+:{{Vsup|zireyese}}
+*'''zirisselat''' [ziɾisselat] <span id="zirisselat"></span>
+:''vtr.'' to cut off, to remove
+:{{Vsup|zirisse}}
+:{{Quote|Me azirissee khalakkaes khaleesisoon.|He will cut the prince out of the khaleesi}}
+*'''ziroqoselat''' [ziɾoqɔselat] <span id="ziroqoselat"></span>
+:''v.'' to ache
+:{{Vsup|ziroqose}}
+*'''zirqoyi''' [ziɾqɔji] <span id="zirqoyi"></span>
+:''ni.'' bird of prey, raptor
+*'''zisat''' [zisat] <span id="zisat"></span>
+:''v.'' to be harmed
+:{{Vsup|zis}}
+*'''ziso''' [ziso] <span id="ziso"></span>
+:''ni.'' wound
+:{{Nsup|zis}}
+*'''zisosh''' [zisoʃ] <span id="zisosh"></span>
+:''ni.'' scratch
+*'''ziyenelat''' [zijenelat] <span id="ziyenelat"></span>
+:''v.'' to fail someone
+:{{Vsup|ziyene}}
+*'''zoh''' [zoh] <span id="zoh"></span>
+:''adj.'' low
+*'''zohhe''' [zohhe] <span id="zohhe"></span>
+:''adv.'' down
+*'''zolat''' [zolat] <span id="zolat"></span>
+:''vin.'' to be exceptionally small
+:{{Vsup|zol}}
+*'''zolle''' [zolle] <span id="zolle"></span>
+:''adv.'' slightly, not much, just a bit
+*'''zoqwa''' [zoqwa] <span id="zoqwa"></span>
+:''n.'' kiss
+*'''zoqwat''' [zoqwat] <span id="zoqwat"></span>
+:''v.'' to kiss
+:{{Vsup|zoqwe}}
+*'''zorat''' [zorat] <span id="zorat"></span>
+:''v.'' to roar
+:{{Vsup|zor}}
