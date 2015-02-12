@@ -1,5 +1,6 @@
 package utils
 
+import play.api.libs.functional.syntax._
 import play.api.libs.json._
 
 /**
@@ -18,4 +19,13 @@ object Snippet {
       "quoteDothraki" -> snippet.quoteDothraki
     )
   }
+
+  def reads(jsValue: JsValue): Snippet = Snippet (
+    (jsValue \ "english").as[String],
+    (jsValue \ "dothraki").as[String],
+    (jsValue \ "speechPart").as[String],
+    (jsValue \ "pastSG").as[String],
+    (jsValue \ "quoteEnglish").as[String],
+    (jsValue \ "quoteDothraki").as[String]
+  )
 }
