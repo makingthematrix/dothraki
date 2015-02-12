@@ -8,18 +8,17 @@ import play.api.libs.json
 import play.api.mvc.{Action, Controller}
 import play.api.libs.json.{JsValue, JsString, JsError, Json}
 import play.api.mvc.{BodyParsers, Action, Controller}
+import utils.{Snippet, JsonReader}
 
+import scala.collection.mutable.ArrayBuffer
 import scala.util.{Success, Try, Failure}
 
 object Application extends Controller {
 
-  case class TranslationRequest(word: String)
-
-  implicit def reads(jsValue: JsValue) = TranslationRequest(
-    (jsValue \ "word").as[String]
-  )
+  var dictionary = Map[String,Snippet] ()
 
   def index = Action {
+    if(dictionary.isEmpty) dictionary = JsonReader.readEnglishDictionary("public/dictionary.json")
     Logger.debug("/ route");
     Ok(views.html.index(Quote.list))
   }
@@ -30,10 +29,19 @@ object Application extends Controller {
 
   def postTranslate = Action {
     implicit request => {
-      val translation = request.body.asJson match {
-        case Some(jsValue) => reads(jsValue).word
-        case None => "Unknown value"
+      val mapOpt = request.body.asFormUrlEncoded
+      val translation = mapOpt match {
+        case Some(map) =>
+          val word = map("word").mkString("")
+          dictionary(word).dothraki
+        case None => "unknown"
       }
+
+      Logger.debug(request.body.asFormUrlEncoded.toString())
+      //val jsValue:JsValue = request.body
+      //println(jsValue.toString())
+      //val tr = reads(jsValue)
+      //val translation = tr.word
       Ok(Json.obj("status" -> "OK", "translation" -> JsString(translation))).as("application/json")
     }
   }
