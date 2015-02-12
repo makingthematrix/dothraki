@@ -1,4 +1,7 @@
-GET /           controllers.Application.index
+GET  /                   controllers.Application.index
+POST /translate          controllers.Application.postTranslate
+GET  /translate/:source  controllers.Application.getTranslate(source: String)
+
 
 GET /assets/*file    controllers.Assets.at(path="/public", file)
 GET /webjars/*file   controllers.WebJarAssets.at(file)

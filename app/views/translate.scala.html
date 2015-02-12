@@ -1,0 +1,24 @@
+@(translation: String)
+<!DOCTYPE html>
+<html>
+<head>
+<title>Translation</title>
+<script src='@routes.WebJarAssets.at(WebJarAssets.locate("jquery.min.js"))'></script>
+<script src='@routes.WebJarAssets.at(WebJarAssets.locate("jquery-ui.min.js"))'></script>
+<script src='@routes.Assets.at("sortable.js")'></script>
+<link rel='stylesheet' href='@routes.WebJarAssets.at(WebJarAssets.locate("css/bootstrap.min.css"))'>
+</head>
+<body>
+
+<div class="container">
+
+  <h1>Translation</h1>
+
+  <ul>
+      <li>@translation</li>
+  </ul>
+
+</div>
+
+</body>
+</html>
