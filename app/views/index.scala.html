@@ -7,19 +7,28 @@
 <script src='@routes.WebJarAssets.at(WebJarAssets.locate("jquery-ui.min.js"))'></script>
 <script src='@routes.Assets.at("sortable.js")'></script>
 <link rel='stylesheet' href='@routes.WebJarAssets.at(WebJarAssets.locate("css/bootstrap.min.css"))'>
-<link rel='stylesheet' href='@routes.Assets.at("stylesheets/main.css")'>
+<link rel='stylesheet' href='@routes.Assets.at("main.css")'>
 </head>
 <body>
 
 <div class="container">
-
-  <h1>Quotes</h1>
+     <div id="content">
+     <div id="quotes">
+         <h1>Quotes</h1>
 
   <ul>
     @for(quote <- quotes) {
       <li>@quote.english | @quote.dothraki</li>
     }
   </ul>
+     </div>
+         <div id="translate">
+         <form method="post" name="translate" action="/translate">
+             <input type="text" name="word" placeholder="to translate">
+             <input type="submit" name="translate" value="translate">
+         </form>
+         </div>
+     </div>
 
 </div>
 
