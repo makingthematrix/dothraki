@@ -33,9 +33,8 @@ class ApplicationSpec extends Specification {
 
     "respond to POST translate action" in
       new WithApplication(FakeApplication(additionalConfiguration = inMemoryDatabase("test"))) {
-        val request = FakeRequest(POST, "/translate").withJsonBody(JsObject(Seq(
-          "word" -> JsString("test")))).withHeaders((CONTENT_TYPE,"application/json"))
-        //Logger.debug(request.headers.toString())
+        val json = JsObject(Seq("word" -> JsString("test")))
+        val request = FakeRequest(POST, "/translate").withJsonBody(json).withHeaders((CONTENT_TYPE,"application/json"))
         val Some(result) = route(FakeRequest(POST, "/translate"))
 
         status(result) must equalTo(OK)
