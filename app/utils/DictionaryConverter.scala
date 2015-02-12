@@ -8,6 +8,7 @@ import play.api.libs.json._
   * Created by gorywoda on 06.02.15.
  */
 object DictionaryConverter {
+
   def writeAsJson(from: String, to: String) = {
     val dictionary = readText(from)
     val json = convertToJson(snippets(dictionary))

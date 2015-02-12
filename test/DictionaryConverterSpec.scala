@@ -7,7 +7,7 @@ import org.specs2.mutable._
  */
 class DictionaryConverterSpec extends Specification {
   "Dictionary Converter" should {
-    "strip long quotes in one word" in {
+    /*"strip long quotes in one word" in {
       DictionaryConverter.stripLongQuotes("'''word'''") must beEqualTo("word")
     }
 
@@ -109,6 +109,7 @@ class DictionaryConverterSpec extends Specification {
     "convert dictionary to json format" in {
       val result = DictionaryConverter.writeAsJson("public/dictionary.txt","public/dictionary.json")
       result must beEqualTo(true)
-    }
+    }*/
+
   }
 }
