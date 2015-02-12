@@ -11,8 +11,8 @@ import scala.util.{Success, Try, Failure}
 object Application extends Controller {
 
   def index = Action {
+    Logger.debug("/ route");
     Ok(views.html.index(Quote.list))
   }
-
 
 }
