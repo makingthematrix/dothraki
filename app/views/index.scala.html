@@ -40,7 +40,8 @@
 
         $('#englishInput').val("");
 
-        alert(JSON.stringify(formData, undefined, 2));
+        // alert debugging
+        //alert(JSON.stringify(formData, undefined, 2));
 
                // process the form
         $.ajax({
@@ -50,7 +51,9 @@
             dataType    : 'json', // what type of data do we expect back from the server
             encode      : true
         }).done(function(data) {
-              alert(data);
+              // alert debugging
+              //alert(JSON.stringify(data, undefined, 2));
+              $('#dothrakiInput').val(data["translation"]);
             });
 
         // stop the form from submitting the normal way and refreshing the page
