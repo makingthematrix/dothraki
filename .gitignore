@@ -16,3 +16,4 @@ dist
 .DS_Store
 /.idea_modules
 .flux
+.thumbnai*
