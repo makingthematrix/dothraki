@@ -1,4 +1,3 @@
-
 name := "dothraki"
 scalaVersion in ThisBuild := "2.11.5"
 
