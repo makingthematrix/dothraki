@@ -18,7 +18,7 @@ object Application extends Controller {
   var dictionary = Map[String,Snippet] ()
 
   def index = Action {
-    if(dictionary.isEmpty) dictionary = JsonReader.readEnglishDictionary("public/dictionary.json")
+    if(dictionary.isEmpty) dictionary = JsonReader.readEnglishDictionary("dothraki-server/public/dictionary.json")
     Logger.debug("/ route");
     Ok(views.html.index(Quote.list))
   }
