@@ -65,7 +65,13 @@
          </div>
      </div>
     <script>
-        @scala.io.Source.fromURL(getClass.getResource("/dothraki-client-fastopt.js"))
+        @{
+            val js = Option(getClass.getResource("/dothraki-client-fastopt.js"))
+            js match {
+                case Some(js) => scala.io.Source.fromURL(js)
+                case None => "alert('bad')"
+            }
+        }
     </script>
 </div>
 
