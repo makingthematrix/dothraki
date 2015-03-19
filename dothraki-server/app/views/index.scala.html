@@ -3,6 +3,7 @@
 <html>
 <head>
 <title>Quotes</title>
+
 <script src='@routes.Assets.at("js/jquery-2.1.3.min.js")'></script>
 <link rel='stylesheet' href='@routes.Assets.at("stylesheets/main.css")'>
 </head>
@@ -64,7 +65,13 @@
 
          </div>
      </div>
-    <script>
+
+</div>
+
+<hr size="1">
+<div id='scalajsShoutOut'></div>
+<!--
+<script>
         @{
             val js = Option(getClass.getResource("/dothraki-client-fastopt.js"))
             js match {
@@ -73,7 +80,9 @@
             }
         }
     </script>
-</div>
+<script type="text/javascript" src='@routes.Assets.at("scalajs/dothraki-client-fastopt.js")'></script>
+-->
+@playscalajs.html.scripts("/assets", projectName = "dothrakiClient")
 
 </body>
 </html>
