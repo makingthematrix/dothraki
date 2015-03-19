@@ -1,0 +1,10 @@
+name := "dothraki-server"
+
+libraryDependencies ++= Seq(
+  jdbc,
+  "com.typesafe.slick" %% "slick" % "2.1.0",
+  "com.typesafe.play" %% "play-slick" % "0.8.0",
+  "org.webjars" % "bootstrap" % "3.2.0",
+  "org.webjars" %% "webjars-play" % "2.3.0",
+  "org.webjars" % "jquery-ui" % "1.11.0-1"
+)
