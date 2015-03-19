@@ -44,3 +44,5 @@ lazy val dothrakiSharedJs = dothrakiShared.js
 
 // loads the jvm project at sbt startup
 onLoad in Global := (Command.process("project dothrakiServer", _: State)) compose (onLoad in Global).value
+
+skip in packageJSDependencies := false
