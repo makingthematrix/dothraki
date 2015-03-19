@@ -1,19 +1,8 @@
 
-name := """dothraki"""
+name := "dothraki"
+scalaVersion in ThisBuild := "2.11.5"
 
-version := "2.0"
-
-lazy val root = (project in file(".")).enablePlugins(PlayScala)
-
-scalaVersion := "2.11.5"
-
-libraryDependencies ++= Seq(
-  "com.typesafe.play" %% "play-slick" % "0.8.0",
-  "org.webjars" % "bootstrap" % "3.2.0",
-  "org.webjars" %% "webjars-play" % "2.3.0",
-  "org.webjars" % "jquery-ui" % "1.11.0-1"
-  "org.scalajs" %% "scalajs-pickling-play-json" % "0.3-SNAPSHOT"
-)
-
-//enablePlugins(ScalaJSPlugin)
-
+lazy val shared = project in file("dothraki-shared")
+lazy val client = (project in file("dothraki-client")).dependsOn(shared).enablePlugins(ScalaJSPlugin, ScalaJSPlay)
+lazy val server = (project in file("dothraki-server")).dependsOn(shared).enablePlugins(PlayScala)
+lazy val root = (project in file(".")).aggregate(shared, client, server)

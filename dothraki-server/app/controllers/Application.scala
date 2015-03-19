@@ -30,10 +30,13 @@ object Application extends Controller {
   def postTranslate = Action {
     implicit request => {
       val mapOpt = request.body.asFormUrlEncoded
-      val translation = mapOpt match {
-        case Some(map) =>
-          val word = map("word").mkString("")
-          dictionary(word).dothraki
+      val res = for {
+        word <- mapOpt
+        t <- dictionary.get(word("word").mkString(""))
+      } yield t
+
+      val translation = res match {
+        case Some(x) => x.dothraki
         case None => "unknown"
       }
 
