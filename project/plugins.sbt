@@ -2,3 +2,5 @@ resolvers += "Typesafe repository" at "http://repo.typesafe.com/typesafe/release
 
 // The Play plugin
 addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.3.3")
+
+addSbtPlugin("org.scala-js" % "sbt-scalajs" % "0.6.2")
